@@ -4,6 +4,7 @@ title:  "Touring Archive"
 categories: meta
 image:
   teaser: tour-teaser.jpg
+excerpt_separator: ""
 ---
 
 <div class="tiles">
