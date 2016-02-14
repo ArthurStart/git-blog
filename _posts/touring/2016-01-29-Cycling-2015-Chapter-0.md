@@ -3,6 +3,7 @@ layout: article
 title:  "Cycling 2015, Chapter 0"
 date:   2016-01-29 23:44:25 +0000
 categories: touring
+comments: True
 image:
   teaser: IMG_4929_small.JPG
 ---
