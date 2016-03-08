@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Wanderlust & Metal
-description: Blog description goes here
+title: Special Low Frequency Version
+description: 
 logo: # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
