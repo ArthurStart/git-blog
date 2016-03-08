@@ -5,14 +5,24 @@ date:   2016-01-29 23:44:25 +0000
 categories: touring
 comments: True
 image:
-  teaser: IMG_4929_small.JPG
+  teaser: teaser_IMG_4929.JPG
+  feature: IMG_4854.JPG
 ---
 
-Here goes nothing. Let's have some preamble here about copying from FB to a blog.
+I first published this post as a Facebook picture album, August last year. It's original purpose was to record what i'd been up to on my little adventures, and to share the pictures and stories with my friends. However, i'm not a huge fan of Facebook for these purposes. Firstly, I wanted a format that allowed a little more flexibility, so that I could give a little more text here, or something other than a picture there. Secondly, sharing my life with Facebook makes me uncomfortable. Having my stories and pictures living on FB's servers just doesn't sit right - I won't get into this now, but suffice to say that i'd rather upload my personality to GitHub at the moment.
 
-This post is from August 2015:
+I posted this album, and the next, to Facebook. But there it stopped, and though I have a few folders of pictures and written logs from further little trips that i'd love to share, I never got around to putting them anywhere public. (Okay, so maybe i'm pretty lazy when it comes to social media, too.) This blog is an attempt to broadcast to the world in a way that feels a little more like I still own my experiences. Thanks to everyone who's commented on the albums I posted, or mentioned to me their appreciation - I hope that you guys will read and enjoy whatever I get around to posting here!
+
+This post is mostly a copy of my Facebook album, from August 2015:
 
 ---
+
+|           | Distance (miles) | Start/Stop  | Time Moving | Average/Max Speed (mph) |
+| --------- | ---------------- | ----------  | ----------- | ----------------------- |
+| Day 1     | 21.3             | 19:30/21:30 | 1:50:37     | 11.5/27.6               |
+| Day 2     | 50.4             | 10:30/19:30 | 5:49:11     | 8.6/33.3                |
+| Day 3     | 20.2             | 10:30/13:00 | 2:03:53     | 9.7/23.7                |
+| **Total** | 91.9             |             | 9:43:41     | 9.4/33.3
 
 So on Thursday I got made redundant, by Sunday I was on a bike. Just a couple of days on the west coast to test out the new bike and kit, and to see if my body can still take it. It was a pretty amazing ride, though!
 
