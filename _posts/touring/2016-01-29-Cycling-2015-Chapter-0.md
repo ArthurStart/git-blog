@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Cycling 2015, Chapter 0"
+title:  "Cycling 2015, Chapter 0: North West Coast"
 date:   2016-01-29 23:44:25 +0000
 categories: touring
 comments: True
@@ -11,9 +11,9 @@ image:
 
 I first published this post as a Facebook picture album, August last year. It's original purpose was to record what i'd been up to on my little adventures, and to share the pictures and stories with my friends. However, i'm not a huge fan of Facebook for these purposes. Firstly, I wanted a format that allowed a little more flexibility, so that I could give a little more text here, or something other than a picture there. Secondly, sharing my life with Facebook makes me uncomfortable. Having my stories and pictures living on FB's servers just doesn't sit right - I won't get into this now, but suffice to say that i'd rather upload my personality to GitHub at the moment.
 
-I posted this album, and the next, to Facebook. But there it stopped, and though I have a few folders of pictures and written logs from further little trips that i'd love to share, I never got around to putting them anywhere public. (Okay, so maybe i'm pretty lazy when it comes to social media, too.) This blog is an attempt to broadcast to the world in a way that feels a little more like I still own my experiences. Thanks to everyone who's commented on the albums I posted, or mentioned to me their appreciation - I hope that you guys will read and enjoy whatever I get around to posting here!
+This album, and the next, went up on Facebook. But there it stopped, and though I have a few folders of pictures and written logs from further little trips that i'd love to share, I never got around to putting them anywhere public. (Okay, so maybe i'm pretty lazy when it comes to social media, too.) This blog is an attempt to broadcast to the world in a way that feels a little more like I still own my experiences. Thanks to everyone who's commented on the albums I posted, or mentioned to me their appreciation - I hope that you guys will read and enjoy whatever I get around to posting here!
 
-This post is mostly a copy of my Facebook album, from August 2015:
+What follows is mostly a copy of my Facebook album, from August 2015, with a few additions:
 
 ---
 
