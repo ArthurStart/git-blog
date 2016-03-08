@@ -145,10 +145,12 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
+			@include shift($n-columns: 1.5); // AS edit
 			@include span-columns(9);
 		}
 	}
 	.page-title {
+		@include shift($n-columns: 1.5); // AS edit
 		@include fill-parent;
 	}
 	@at-root {
