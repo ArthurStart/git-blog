@@ -13,7 +13,11 @@ image:
 | 24/3 | Aberdeen - Lairhillock | 12.60 | 17:30/19:15 | 1:10:05 | 10.7/23.6 |
 | 25/3 | - Dundee               | 65.48 | 10:00/20:45 | 7:39:42 |  8.5/29.8 |
 | 26/3 | - St Andrews           | 13.35 | 10:00/12:30 | 1:25:03 |  9.4/21.8 |
+| 27/3 | - Edinburgh            | 52.68 | 10:15/19:30 | 5:46:18 |  9.1/28.2 |
 
+
+**27/03/16 (again)**
+I've made it to Edinburgh! Long day, not the nicest weather, but not nearly as bad as day 2. Cycling the Forth Road Bridge was pretty awesome.
 
 **27/03/16**
 Yesterday I had a nice relaxed ride to St Andrews where I took a bit of a rest day. I needed it after the day before! St Andrews is a lovely quaint and very old university town (third oldest university in the English speaking world apparently - cute [not that i'm smug about that]). Saw some cool buildings and ruins, found a couple of Geocaches, and ended up staying in the hostel where I met Swiss sisters and a Kiwi guy. Swapped some travel stories and felt very unadventurous, as is the danger with hostels. Drank a couple of beers and booked a ferry - i'm off abroad!
