@@ -9,7 +9,7 @@ image:
   feature: feature.JPG // Normal (1024x768 or so)
 ---
 
-// sips -Z 640 *.jpg
+// sips -Z 1024 *.jpg
 
 content
 

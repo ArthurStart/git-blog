@@ -14,7 +14,11 @@ image:
 | 25/3 | - Dundee               | 65.48 | 10:00/20:45 | 7:39:42 |  8.5/29.8 |
 | 26/3 | - St Andrews           | 13.35 | 10:00/12:30 | 1:25:03 |  9.4/21.8 |
 | 27/3 | - Edinburgh            | 52.68 | 10:15/19:30 | 5:46:18 |  9.1/28.2 |
+| 28/3 | Berwick - Chathill     | 43.64 | 12:00/19:00 | 4:20:18 | 10.0/24.1 |
 
+
+**28/03/16**
+Beautiful day. Fast-forwarded (on a train) to Berwick. Explored city briefly. Then headed to Lindisfarne in time to get across the tidal causeway and back. Finally had a tailwind, felt like going downhill all day! Lindisfarne has the priory that vikings attacked in 793, widely regarded as the start of the 'Viking Age' - had to listen to some Amon Amarth on the way back. Now staying with Jonny, a fascinating and welcoming Warmshowers host who has shared great stories and great food.
 
 **27/03/16 (again)**
 I've made it to Edinburgh! Long day, not the nicest weather, but not nearly as bad as day 2. Cycling the Forth Road Bridge was pretty awesome.
