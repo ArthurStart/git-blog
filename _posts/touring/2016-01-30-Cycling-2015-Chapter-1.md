@@ -5,7 +5,7 @@ date:   2016-03-27 13:32:25 +0000
 categories: touring
 comments: True
 image:
-  teaser: teaser_IMG_5151.JPG
+  teaser: teaser_IMG_5403.JPG
   feature: IMG_5275.JPG
 ---
 
