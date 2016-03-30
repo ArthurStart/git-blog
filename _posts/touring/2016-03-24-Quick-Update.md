@@ -18,6 +18,8 @@ image:
 | 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
 | 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
 
+**30/03/16 (again again)**
+You'd have thought that the ferry live-musician would know how to tune a guitar, huh? So far the Orkney ferry is winning.
 
 **30/03/16 (again)**
 I'm on the ferry, going to another country!
