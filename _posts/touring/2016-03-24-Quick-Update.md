@@ -16,7 +16,11 @@ image:
 | 27/3 | - Edinburgh            | 52.68 | 10:15/19:30 | 5:46:18 |  9.1/28.2 |
 | 28/3 | Berwick - Chathill     | 43.64 | 12:00/19:00 | 4:20:18 | 10.0/24.1 |
 | 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
+| 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
 
+
+**30/03/16 (again)**
+I'm on the ferry, going to another country!
 
 **30/03/16**
 I'm in Newcastle now, getting ready for the ferry this afternoon. Yesterday was pretty tough, bit of a headwind. Coming into Newcastle wasn't the most pleasant riding per se, but it was pretty fascinating comparing the urban sprawl to that of Edinburgh - very different feel. Anyway, gotta go buy some euros!
