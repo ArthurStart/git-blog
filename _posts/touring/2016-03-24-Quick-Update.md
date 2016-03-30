@@ -20,6 +20,7 @@ image:
 
 **30/03/16 (again again)**
 You'd have thought that the ferry live-musician would know how to tune a guitar, huh? So far the Orkney ferry is winning.
+EDIT: Bingo has finished in the other room, so now there's a much better live band. A guy dressed as a Pinnochio just danced/strip-teased to Red Wine - apparently this is normal for Dutch people.
 
 **30/03/16 (again)**
 I'm on the ferry, going to another country!
