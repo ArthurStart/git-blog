@@ -2,7 +2,7 @@
 layout: article
 title:  "Quick Updates (& Stats)"
 date:   2016-03-24 19:43:00 +0000
-categories: touring
+categories: touring_2016
 comments: True
 image:
   teaser: IMG_6931_tease.JPG

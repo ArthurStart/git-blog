@@ -5,6 +5,10 @@
   excerpt:
   image:
 
-- title: Touring
-  url: /meta/touring-archive
+- title: Touring '15
+  url: /meta/touring-2015-archive
   image: tour-teaser.jpg
+
+- title: Touring '16
+  url: /meta/touring-2016-archive
+  image: teaser_IMG_7577.JPG

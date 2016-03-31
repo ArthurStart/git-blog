@@ -2,7 +2,7 @@
 layout: article
 title:  "Cycling 2015, Chapter 0: North West Coast"
 date:   2016-01-29 23:44:25 +0000
-categories: touring
+categories: touring_2015
 comments: True
 image:
   teaser: teaser_IMG_4929.JPG

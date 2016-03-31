@@ -2,7 +2,7 @@
 layout: article
 title:  "Cycling 2015, Chapter 1: Borders to Aberdeen"
 date:   2016-03-27 13:32:25 +0000
-categories: touring
+categories: touring_2015
 comments: True
 image:
   teaser: teaser_IMG_5403.JPG

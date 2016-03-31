@@ -2,7 +2,7 @@
 layout: article
 title:  "Aberdeen to Amsterdam"
 date:   2016-03-30 20:12:25 +0000
-categories: touring
+categories: touring_2016
 comments: True
 image:
   teaser: teaser_IMG_7633.JPG
