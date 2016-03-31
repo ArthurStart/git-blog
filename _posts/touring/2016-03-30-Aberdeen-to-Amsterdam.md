@@ -181,6 +181,8 @@ I got a call from a WarmShowers host while I was riding back across the causeway
 
 Kvlt.
 
+Soundtrack: Caladan Brood - Echoes of Battle
+
 ![](/images/IMG_7667.JPG)
 
 Less kvlt.
