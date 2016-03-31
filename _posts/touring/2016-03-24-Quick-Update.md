@@ -17,6 +17,10 @@ image:
 | 28/3 | Berwick - Chathill     | 43.64 | 12:00/19:00 | 4:20:18 | 10.0/24.1 |
 | 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
 | 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
+| 31/3 | IJmuiden - Delft       | 56.22 | 09:30/18:30 | 5:04:16 | 11.0/24.6 |
+
+**31/03/16**
+Everyone is driving on the wrong side, the cyclists are crazy, and the language sounds silly, but the Netherlands is awesome! Really incredible cyclepaths - I haven't enjoyed the actual 'cycling' part of touring so much, well, ever. Rather than stay the day in Haarlem or Amsterdam as i'd intended, i've found myself 56 miles along in Delft. Really pretty and friendly place, I could spend some time here if the cyclepaths weren't so good.
 
 **30/03/16 (again again)**
 You'd have thought that the ferry live-musician would know how to tune a guitar, huh? So far the Orkney ferry is winning.
