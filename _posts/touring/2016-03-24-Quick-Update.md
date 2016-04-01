@@ -18,6 +18,10 @@ image:
 | 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
 | 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
 | 31/3 | IJmuiden - Delft       | 56.22 | 09:30/18:30 | 5:04:16 | 11.0/24.6 |
+| 01/4 | - Gooren en Krochten   | 65.77 | 10:30/20:00 | 5:42:18 | 11.5/20.2 |
+
+**01/04/16**
+'Pole camping' in the Netherlands, with a couple of Texans - a moment ago we were sitting on a bench overlooking Belgium. The Netherlands have shot past! Today I did my highest average and lowest top speed, as well as my greatest distance by a hair. Still having an awesome time over here.
 
 **31/03/16**
 Everyone is driving on the wrong side, the cyclists are crazy, and the language sounds silly, but the Netherlands is awesome! Really incredible cyclepaths - I haven't enjoyed the actual 'cycling' part of touring so much, well, ever. Rather than stay the day in Haarlem or Amsterdam as i'd intended, i've found myself 56 miles along in Delft. Really pretty and friendly place, I could spend some time here if the cyclepaths weren't so good.
