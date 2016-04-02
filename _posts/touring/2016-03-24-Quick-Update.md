@@ -19,6 +19,10 @@ image:
 | 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
 | 31/3 | IJmuiden - Delft       | 56.22 | 09:30/18:30 | 5:04:16 | 11.0/24.6 |
 | 01/4 | - Gooren en Krochten   | 65.77 | 10:30/20:00 | 5:42:18 | 11.5/20.2 |
+| 02/4 | - near Westerlo        | 52.62 | 10:30/18:30 | 4:34:55 | 11.4/20.2 |
+
+**02/04/16**
+Pole camping again, this time in Belgium. I spent the day riding with the Texans on their tandem, and this evening we've also been joined by Christoph, a Belgian preparing for a bigger tour. Saw Westmalle this morning. Another campfire tonight, another good meal cooked in an aluminium pan.
 
 **01/04/16**
 'Pole camping' in the Netherlands, with a couple of Texans - a moment ago we were sitting on a bench overlooking Belgium. The Netherlands have shot past! Today I did my highest average and lowest top speed, as well as my greatest distance by a hair. Still having an awesome time over here.
