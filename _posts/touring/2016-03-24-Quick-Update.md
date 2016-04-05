@@ -21,6 +21,11 @@ image:
 | 01/4 | - Gooren en Krochten   | 65.77 | 10:30/20:00 | 5:42:18 | 11.5/20.2 |
 | 02/4 | - near Westerlo        | 52.62 | 10:30/18:30 | 4:34:55 | 11.4/20.2 |
 | 03/4 | - Leuven               | 19.59 | 11:30/14:00 | 1:44:39 | 11.2/19.0 |
+| 04/4 | - Maastricht           | 50.42 | 11:00/18:00 | 4:14:16 | 11.8/22.5 |
+| 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
+
+**05/04/16**
+I'm camped in the Netherlands, about 300 meters from Germany and 400 from Belgium. Yesterday I had a beautiful quick ride (dat average) to Maastricht, where I had a brilliant time seeing the city, meeting locals, and visiting the weirdest and possibly best beer bar i've ever been to. Today completed the city tour, and featured a quick trip to a cool blues bar full of character. Thanks to Aleks for the tour and for letting me crash, first Couchsurfing experience definitely a positive one. Got a few miles in before dark, but I found some hills in the Netherlands, and had some slight bike-issues (nothing significant I hope) so it was slow going. Off to join the Rhine next!
 
 **03/04/16**
 Relaxed ride to Leuven today. Had a celebratory pizza with the Texans, then said bye to them and now checked into a hostel to recover a bit. Off to explore Leuven now!
