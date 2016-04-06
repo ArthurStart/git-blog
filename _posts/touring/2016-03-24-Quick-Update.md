@@ -23,6 +23,10 @@ image:
 | 03/4 | - Leuven               | 19.59 | 11:30/14:00 | 1:44:39 | 11.2/19.0 |
 | 04/4 | - Maastricht           | 50.42 | 11:00/18:00 | 4:14:16 | 11.8/22.5 |
 | 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
+| 06/4 | - Bad Neuenahr-Ahrweiler | 73.76 | 10:00/19:45 | 6:50:24 | 10.7/29.4 |
+
+**06/04/16**
+I'm in *bad* place tonight. Har har har. In all seriousness, I am a terrible cycle tourist. It's so beautiful how people can pick the perfect spot two hours before sundown and spend the evening cooking and meditating and soaking in nature or whatever. About that though... I'll keep trying. Today, I got to two hours before sundown, and there were some more miles I wanted to do. Anyway, i'm almost at the Rhine already. No regrets, camped up in the most tranquil spot.
 
 **05/04/16**
 I'm camped in the Netherlands, about 300 meters from Germany and 400 from Belgium. Yesterday I had a beautiful quick ride (dat average) to Maastricht, where I had a brilliant time seeing the city, meeting locals, and visiting the weirdest and possibly best beer bar i've ever been to. Today completed the city tour, and featured a quick trip to a cool blues bar full of character. Thanks to Aleks for the tour and for letting me crash, first Couchsurfing experience definitely a positive one. Got a few miles in before dark, but I found some hills in the Netherlands, and had some slight bike-issues (nothing significant I hope) so it was slow going. Off to join the Rhine next!
