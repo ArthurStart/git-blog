@@ -24,6 +24,10 @@ image:
 | 04/4 | - Maastricht           | 50.42 | 11:00/18:00 | 4:14:16 | 11.8/22.5 |
 | 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
 | 06/4 | - Bad Neuenahr-Ahrweiler | 73.76 | 10:00/19:45 | 6:50:24 | 10.7/29.4 |
+| 07/4 | - near Siebenborn      | 40.04 | 10:00/19:30 | 3:52:58 | 10.3/22.5 |
+
+**07/04/16 (again)**
+So TIL German eggs are inferior to British or Dutch ones. I spent the better part of 1000 miles with at least some eggs in my front left pannier around Britain, and got through a box in the Netherlands too. Never a breakage. But this evening I picked up some German eggs, and by the time I had the tent up, three had broken. What's up with that, Germany? In unrelated news, I had egg fried rice for dinner.
 
 **07/04/16**
 Haven't managed to get any updates out in a while, as i've been busy doing things, seeing stuff, seeing things, doing stuff, staying in a tent without Wifi. Here's a few days of updates. In Koblenz now, the Rhine is quite awesome. Working on a post about the Netherlands and Belgium!
