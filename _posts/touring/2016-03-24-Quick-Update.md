@@ -25,6 +25,9 @@ image:
 | 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
 | 06/4 | - Bad Neuenahr-Ahrweiler | 73.76 | 10:00/19:45 | 6:50:24 | 10.7/29.4 |
 
+**07/04/16**
+Haven't managed to get any updates out in a while, as i've been busy doing things, seeing stuff, seeing things, doing stuff, staying in a tent without Wifi. Here's a few days of updates. In Koblenz now, the Rhine is quite awesome. Working on a post about the Netherlands and Belgium!
+
 **06/04/16**
 I'm in *bad* place tonight. Har har har. In all seriousness, I am a terrible cycle tourist. It's so beautiful how people can pick the perfect spot two hours before sundown and spend the evening cooking and meditating and soaking in nature or whatever. About that though... I'll keep trying. Today, I got to two hours before sundown, and there were some more miles I wanted to do. Anyway, i'm almost at the Rhine already. No regrets, camped up in the most tranquil spot.
 
