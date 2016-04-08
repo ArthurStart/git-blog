@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Quick Updates (& Stats)"
+title:  "Quick Ramblings (& Stats)"
 date:   2016-03-24 19:43:00 +0000
 categories: touring_2016
 comments: True
