@@ -26,6 +26,9 @@ image:
 | 06/4 | - Bad Neuenahr-Ahrweiler | 73.76 | 10:00/19:45 | 6:50:24 | 10.7/29.4 |
 | 07/4 | - near Siebenborn      | 40.04 | 10:00/19:30 | 3:52:58 | 10.3/22.5 |
 | 08/4 | - Eltville             | 45.90 | 10:00/16:00 | 3:59:40 | 11.4/22.9 |
+| 09/4 | - Mannheim             | 59.84*| 10:30/19:00 | 5:07:36 | 11.6/30.3 |
+
+*\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
 **08/04/16**
 Couchsurfing is awesome - after three days in the tent, a shower, hot meal, laundry, chat about travel, film, and beer, is exactly what I needed! Thanks Sonja :) Anyway, so the Rhine has more ruined castles than you can shake a dragon at. Seriously, seriously picturesque. There was actually a castle catching sun atop a dark hill framed by a rainbow yesterday. No shit.
