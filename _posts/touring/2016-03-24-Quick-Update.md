@@ -28,8 +28,18 @@ image:
 | 08/4 | - Eltville             | 45.90 | 10:00/16:00 | 3:59:40 | 11.4/22.9 |
 | 09/4 | - Mannheim             | 59.84*| 10:30/19:00 | 5:07:36 | 11.6/30.3 |
 | 10/4 | - Heidelberg           | 18.26 | 14:30/16:30 | 1:47:36 | 10.1/20.6 |
+| 11/4 | - Karlsruhe            | 35.02 | 12:30/16:00 | 2:39:01 | 13.2/24.7 |
+| 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
+
+**12/04/16**
+I'm 7km or so out of Strasbourg. The thunderstorm has passed. I'm sitting in a shelter next to some woods where my tent is hiding, with a bowl of road-soup, and QUOTSA playing. The sky is lit up pink. Quite a bit going on since I last updated.  
+Heidelberg is quite the postcard. Incredible views from the Philosophenweg, but pro-tip: don't carry a loaded touring bike up the stairs to the top.  
+Then I left my previous top average speed in the dust of a blazing hot day. What factors contributed to this? No tailwind. No tire pressure experimentation. Trick is, I cycled fast lots and didn't cycle slowly very much. I was feeling energetic, only had 35 miles to do, and got a bit self-competitive.  
+Last night I got to hear some live Finnish doom metal, and also a jam with some local musicians in Karlsruhe. Thanks David for having me! Once again Couchsurfing is proving brilliant.  
+Today I figured i've been in Germany long enough, so i've got my sights set on Basel, and i've been trying out the French side of the Rhine.  
+Still working on the next proper blog post, i'll get there...
 
 **10/04/16**
 Last night in Mannheim I stayed with Tine, a fascinating and lovely couchsurfer/hitchhiker with a flat full of colour and pattern and good music. Mannheim is a very different place to the cities i'd passed through previously. Today she invited me to stay for lunch with her family and her partner, which was great! Quick ride today to nearby Heidelberg, which is like a postcard. I'll have a proper explore of the old town tomorrow before I set off south again.
