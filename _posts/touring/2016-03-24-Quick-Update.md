@@ -30,8 +30,14 @@ image:
 | 10/4 | - Heidelberg           | 18.26 | 14:30/16:30 | 1:47:36 | 10.1/20.6 |
 | 11/4 | - Karlsruhe            | 35.02 | 12:30/16:00 | 2:39:01 | 13.2/24.7 |
 | 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
+| 13/4 | - near Neuf-Brisach    | ???** | 09:30/20:15 | ??????? | ????/???? |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
+
+*\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable.*  
+
+**13/04/16**
+What started as a wet, slow, miserable day has turned really great this afternoon and evening. Not the most interesting ride, but the scenery is teasing epicness. I happened to come across a friend of the person who i'm staying with tomorrow, we shared food next to the canal, and I had a go on her recumbent - I want one!
 
 **12/04/16**
 I'm 7km or so out of Strasbourg. The thunderstorm has passed. I'm sitting in a shelter next to some woods where my tent is hiding, with a bowl of road-soup, and QUOTSA playing. The sky is lit up pink. Quite a bit going on since I last updated.  
