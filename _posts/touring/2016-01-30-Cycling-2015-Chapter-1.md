@@ -25,7 +25,6 @@ Once i'd escaped the busy roads of Ayr, then passed through a network of tiny li
 
 ![](/images/IMG_4953.JPG)
 
-
 Views for miles when the clouds occasionally relented. It was totally quiet, I saw just a small handfull of people over 30 miles or so.
 
 ![](/images/IMG_4954.JPG)
@@ -281,15 +280,4 @@ This little stretch was I think the most incredible 10 miles i'd done. So many w
 
 ![](/images/IMG_5270.JPG)
 
-a table perhaps:
-
-|           | Distance (miles) | Start/Stop  | Time Moving | Average/Max Speed (mph) |
-| --------- | ---------------- | ----------  | ----------- | ----------------------- |
-| Day 1     | 21.3             | 19:30/21:30 | 1:50:37     | 11.5/27.6               |
-| Day 2     | 50.4             | 10:30/19:30 | 5:49:11     | 8.6/33.3                |
-| Day 3     | 20.2             | 10:30/13:00 | 2:03:53     | 9.7/23.7                |
-| **Total** | 91.9             |             | 9:43:41     | 9.4/33.3
-
-Pictures like this:
-
-![](/images/IMG_4801.JPG)
+(Not finished yet...)
