@@ -32,10 +32,14 @@ image:
 | 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
 | 13/4 | - near Neuf-Brisach    | 50**  | 09:30/20:15 | ??????? | ????/???? |
 | 14/4 | - Basel                | 37.14 | 09:00/15:00 | 3:36:42 | 10.2/20.1 |
+| 15/4 | - Buen                 | 26.65 | 16:30/19:30 | 2:49:22 |  9.4/22.2 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
 *\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*  
+
+**15/04/16**
+Basel is a cool and exciting place, i'm pleased to have got a little tour. I saw coffee growing, and many other awesome things at the botanical garden. Thanks Myriam and flatmates! Little ride into Switzerland today. It's been rainy, and i've found my first decent hills in Europe. Perhaps a few similarities to Scotland... First serious equipment failure too: tent pole snapped! Bodged together for now but i'll see whether the tent is still standing in the morning.
 
 **14/04/16**
 I'm in Switzerland! Awesome Couchsurfers made fondue - very tasty. Basel seems great. But where to go next?
