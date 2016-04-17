@@ -33,10 +33,15 @@ image:
 | 13/4 | - near Neuf-Brisach    | 50**  | 09:30/20:15 | ??????? | ????/???? |
 | 14/4 | - Basel                | 37.14 | 09:00/15:00 | 3:36:42 | 10.2/20.1 |
 | 15/4 | - Buen                 | 26.65 | 16:30/19:30 | 2:49:22 |  9.4/22.2 |
+| 16/4 | - Sursee               | 25.39 | 10:00/14:00 | 2:12:55 | 11.4/32.6 |
+| 17/4 | - Zug                  | 29.39 | 13:30/19:00 | 3:06:26 |  9.4/28.6 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
-*\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*  
+*\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
+
+**17/04/16**
+Been having a fantastic time in Switzerland, despite some very wet weather. Anja, who I met in St Andrews, and family Heller, showed me some amazing Swiss hospitality and many many types of Swiss alcohol. Recovering some energy tonight so I can push east tomorrow, as the Swiss alpine passes are still closed with snow. Also hopefully i'll get the tent fixed soon.
 
 **15/04/16**
 Basel is a cool and exciting place, i'm pleased to have got a little tour. I saw coffee growing, and many other awesome things at the botanical garden. Thanks Myriam and flatmates! Little ride into Switzerland today. It's been rainy, and i've found my first decent hills in Europe. Perhaps a few similarities to Scotland... First serious equipment failure too: tent pole snapped! Bodged together for now but i'll see whether the tent is still standing in the morning.
