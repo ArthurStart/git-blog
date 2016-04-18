@@ -35,10 +35,14 @@ image:
 | 15/4 | - Seppenweid           | 26.65 | 16:30/19:30 | 2:49:22 |  9.4/22.2 |
 | 16/4 | - Sursee               | 25.39 | 10:00/14:00 | 2:12:55 | 11.4/32.6 |
 | 17/4 | - Zug                  | 29.39 | 13:30/19:00 | 3:06:26 |  9.4/28.6 |
+| 18/4 | - Mels                 | 62.43 | 10:00/19:00 | 5:57:41 | 10.4/26.5 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
 *\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
+
+**18/04/16**
+Everything is wet: I am wet. My face is wet. The outside of the tent is wet, and the inside of the tent is wet too (not to mention falling down). My shoes are soaked. My phone is wet. The inside of my camera is wet and the last few pictures are fuzzy. D'Schwiiz is just one big raincloud today, and i've got a lot of great views of the inside of it. However, there's not been a headwind. I've had a good day.
 
 **17/04/16**
 Been having a fantastic time in Switzerland, despite some very wet weather. Anja, who I met in St Andrews, and family Heller, showed me some amazing Swiss hospitality and many many types of Swiss alcohol. Recovering some energy tonight so I can push east tomorrow, as the Swiss alpine passes are still closed with snow. Also hopefully i'll get the tent fixed soon.
