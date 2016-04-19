@@ -36,10 +36,16 @@ image:
 | 16/4 | - Sursee               | 25.39 | 10:00/14:00 | 2:12:55 | 11.4/32.6 |
 | 17/4 | - Zug                  | 29.39 | 13:30/19:00 | 3:06:26 |  9.4/28.6 |
 | 18/4 | - Mels                 | 62.43 | 10:00/19:00 | 5:57:41 | 10.4/26.5 |
+| 19/4 | - Dalaas               | 47.42 | 10:30/19:30 | 4:17:53 | 11.0/26.8 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
 *\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
+
+
+**19/04/16**
+Switzerland still wet and cloudy. Warming up by Liechtenstein - I barely put my feet to the ground and passed into Austria before i'd noticed. Switzerland gave me one last incredible view of the Alps. Austria is fighting the good fight for being more beautiful, more picturesque, more welcoming than Switzerland. So far Austrian Alps are better than Swiss Alps, but the fact that they're not hidden in a cloud is working to their advantage. Sorry Anja - i'll think about a return visit!  
+So i've heard about people asking after camping spots and being taken in to a local's house, but tonight is the first time it's happened to me. "Come on in, we'll have a tea or coffee... Or a beer. I think a beer." Many thanks to Veronica and her husband, who motorbike tour around Asia. May the people you meet be as kind to you as you have been to me. Good start, Austria, good start.
 
 **18/04/16**
 Everything is wet: I am wet. My face is wet. The outside of the tent is wet, and the inside of the tent is wet too (not to mention falling down). My shoes are soaked. My phone is wet. The inside of my camera is wet and the last few pictures are fuzzy. D'Schwiiz is just one big raincloud today, and i've got a lot of great views of the inside of it. However, there's not been a headwind. I've had a good day.
