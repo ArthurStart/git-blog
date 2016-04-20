@@ -37,11 +37,15 @@ image:
 | 17/4 | - Zug                  | 29.39 | 13:30/19:00 | 3:06:26 |  9.4/28.6 |
 | 18/4 | - Mels                 | 62.43 | 10:00/19:00 | 5:57:41 | 10.4/26.5 |
 | 19/4 | - Dalaas               | 47.42 | 10:30/19:30 | 4:17:53 | 11.0/26.8 |
+| 20/4 | - near Ried            | 46.60 | 10:30/18:30 | 4:55:50 |  9.4/40.7 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
 *\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
 
+
+**20/04/16**
+Pretty incredible day today. Climbed the Arlberg pass over the Austrian Alps, getting to an altitude of 1800m. It was stunning. And then the other side! Pretty sure i've set my highest daily max/av speed ratio, my highest brake pad wear per distance travelled, and also my top speed on this bike, today. Strange and awesome cocktail of brain chemicals going on. On my way to do another Alpine pass into Italy via a little corner of Switzerland, then on to flatter ground and east again. But right now, i'm on a bench next to the cyclepath, under a very clear night with the stars starting to come out above snowy mountains. Got Earth playing, the rushing of a river in the background, and my tent is tucked away behind some trees (mostly fixed now). The few people i've met in Austria have been really friendly, and i'm definitely hoping to get to know the place a bit better sometime.
 
 **19/04/16**
 Switzerland still wet and cloudy. Warming up by Liechtenstein - I barely put my feet to the ground and passed into Austria before i'd noticed. Switzerland gave me one last incredible view of the Alps. Austria is fighting the good fight for being more beautiful, more picturesque, more welcoming than Switzerland. So far Austrian Alps are better than Swiss Alps, but the fact that they're not hidden in a cloud is working to their advantage. Sorry Anja - i'll think about a return visit!  
