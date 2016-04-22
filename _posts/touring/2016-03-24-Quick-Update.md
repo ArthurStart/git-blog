@@ -39,11 +39,14 @@ image:
 | 19/4 | - Dalaas               | 47.42 | 10:30/19:30 | 4:17:53 | 11.0/26.8 |
 | 20/4 | - near Ried            | 46.60 | 10:30/18:30 | 4:55:50 |  9.4/40.7 |
 | 21/4 | - Laas                 | 52.29 | 10:30/19:00 | 5:42:15 |  9.1/33.7 |
+| 22/4 | - Lavis                | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
 *\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
 
+**22/04/16**
+Today's headwind has a name! Rode a pretty huge distance into the Garda Lake Wind, quite proud that I managed to keep the pedals turning and keep the average up - the locals thought I was crazy, even got a 'bravo'. Baking hot, humid day, scenery straight out of sci-fi. I'm staying with Nadia and Dario, a really lovely Italian couple who have taken me out for delicious ice cream and taught me all about Italy and it's many linguistic complexities.
 
 **21/04/16**
 Local campsite wanted €17 for a pitch, and so I am sitting high above a wide valley, the sun just set over the mountains from whence I came today, watching the bustle in the valley and listening to the bells around the necks of the goats on the hillside below me. Today in numbers: border crossings - 3; countries - 3; languages that I don't know - 3; pizzas - 0; altitude reached - 1530m; coffees - just one. Italy has been mixed so far. At first I considered heading straight back to Austria, but i'll give the place a chance. I haven't really scratched the surface of the culture, but in my defense that's tricky when everywhere is shut and everyone is presumably asleep.
