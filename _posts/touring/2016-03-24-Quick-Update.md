@@ -15,8 +15,8 @@ Days 30 to the present, on the road.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
-| 22/4 | Laas - Lavis           | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
-| 23/4 | - Levico Terme         | 22.89 | 16:15/19:30 | 2:27:16 |  9.3/31.9 |
+| 22/4 | Laas - Lavis    | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
+| 23/4 | - Levico Terme  | 22.89 | 16:15/19:30 | 2:27:16 |  9.3/31.9 |
 
 **23/04/16**
 Fascinating day: very un-touristy little cafe for breakfast, where I tried a very *very* local creation, the hazelnut heart. Nadia and her gardening-buddy Damiano took me to see their community garden, a weird kinda artistic organic garden in the most incredible setting where they experiment with all sorts of symbiotic combinations of tasty vegetables. Damiano is hugely passionate about agriculture, and I got a fantastic tour. Not the most productive day's ride - I left late anyway, but then underestimated the climb out of Trento, and had some trouble navigating the un-German bike paths, but at least the promised rain didn't materialise until I stopped. Towards Venice tomorrow, probably.
@@ -60,7 +60,7 @@ Basel is a cool and exciting place, i'm pleased to have got a little tour. I saw
 I'm in Switzerland! Awesome Couchsurfers made fondue - very tasty. Basel seems great. But where to go next?
 
 ####Part 3: Germany and France
-Days 14-22 on the road.
+Days 14-22 on the road. Blog post in the works.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
@@ -106,7 +106,7 @@ Haven't managed to get any updates out in a while, as i've been busy doing thing
 I'm in *bad* place tonight. Har har har. In all seriousness, I am a terrible cycle tourist. It's so beautiful how people can pick the perfect spot two hours before sundown and spend the evening cooking and meditating and soaking in nature or whatever. About that though... I'll keep trying. Today, I got to two hours before sundown, and there were some more miles I wanted to do. Anyway, i'm almost at the Rhine already. No regrets, camped up in the most tranquil spot.
 
 ####Part 2: The Netherlands and Belgium
-Days 8-13 on the road.
+Days 8-13 on the road. [Blog post here.]({% post_url 2016-04-06-The-Netherlands-and-Belgium %})
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
@@ -133,7 +133,7 @@ Pole camping again, this time in Belgium. I spent the day riding with the Texans
 Everyone is driving on the wrong side, the cyclists are crazy, and the language sounds silly, but the Netherlands is awesome! Really incredible cyclepaths - I haven't enjoyed the actual 'cycling' part of touring so much, well, ever. Rather than stay the day in Haarlem or Amsterdam as i'd intended, i've found myself 56 miles along in Delft. Really pretty and friendly place, I could spend some time here if the cyclepaths weren't so good.
 
 ####Part 1: Aberdeen to Amsterdam (nearly)
-Days 1-7 on the road.
+Days 1-7 on the road. [Blog post here.]({% post_url 2016-03-30-Aberdeen-to-Amsterdam %})
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
