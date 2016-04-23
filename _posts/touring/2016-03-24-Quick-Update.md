@@ -18,6 +18,9 @@ Days 30 to the present, on the road.
 | 22/4 | Laas - Lavis           | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
 | 23/4 | - Levico Terme         | 22.89 | 16:15/19:30 | 2:27:16 |  9.3/31.9 |
 
+**23/04/16**
+Fascinating day: very un-touristy little cafe for breakfast, where I tried a very *very* local creation, the hazelnut heart. Nadia and her gardening-buddy Damiano took me to see their community garden, a weird kinda artistic organic garden in the most incredible setting where they experiment with all sorts of symbiotic combinations of tasty vegetables. Damiano is hugely passionate about agriculture, and I got a fantastic tour. Not the most productive day's ride - I left late anyway, but then underestimated the climb out of Trento, and had some trouble navigating the un-German bike paths, but at least the promised rain didn't materialise until I stopped. Towards Venice tomorrow, probably.
+
 **22/04/16**
 Today's headwind has a name! Rode a pretty huge distance into the Garda Lake Wind, quite proud that I managed to keep the pedals turning and keep the average up - the locals thought I was crazy, even got a 'bravo'. Baking hot, humid day, scenery straight out of sci-fi. I'm staying with Nadia and Dario, a really lovely Italian couple who have taken me out for delicious ice cream and taught me all about Italy and it's many linguistic complexities. Italy is certainly growing on me.
 
