@@ -8,45 +8,31 @@ image:
   teaser: IMG_6931_tease.JPG
 ---
 
+*In reverse chronological order, now split into parts for ease of use.*
+
+####Part 5: Italy...
+Days 30 to the present, on the road.
+
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
-| 24/3 | Aberdeen - Lairhillock | 12.60 | 17:30/19:15 | 1:10:05 | 10.7/23.6 |
-| 25/3 | - Dundee               | 65.48 | 10:00/20:45 | 7:39:42 |  8.5/29.8 |
-| 26/3 | - St Andrews           | 13.35 | 10:00/12:30 | 1:25:03 |  9.4/21.8 |
-| 27/3 | - Edinburgh            | 52.68 | 10:15/19:30 | 5:46:18 |  9.1/28.2 |
-| 28/3 | Berwick - Chathill     | 43.64 | 12:00/19:00 | 4:20:18 | 10.0/24.1 |
-| 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
-| 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
-| 31/3 | IJmuiden - Delft       | 56.22 | 09:30/18:30 | 5:04:16 | 11.0/24.6 |
-| 01/4 | - Gooren en Krochten   | 65.77 | 10:30/20:00 | 5:42:18 | 11.5/20.2 |
-| 02/4 | - near Westerlo        | 52.62 | 10:30/18:30 | 4:34:55 | 11.4/20.2 |
-| 03/4 | - Leuven               | 19.59 | 11:30/14:00 | 1:44:39 | 11.2/19.0 |
-| 04/4 | - Maastricht           | 50.42 | 11:00/18:00 | 4:14:16 | 11.8/22.5 |
-| 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
-| 06/4 | - Bad Neuenahr-Ahrweiler | 73.76 | 10:00/19:45 | 6:50:24 | 10.7/29.4 |
-| 07/4 | - near Siebenborn      | 40.04 | 10:00/19:30 | 3:52:58 | 10.3/22.5 |
-| 08/4 | - Eltville             | 45.90 | 10:00/16:00 | 3:59:40 | 11.4/22.9 |
-| 09/4 | - Mannheim             | 59.84*| 10:30/19:00 | 5:07:36 | 11.6/30.3 |
-| 10/4 | - Heidelberg           | 18.26 | 14:30/16:30 | 1:47:36 | 10.1/20.6 |
-| 11/4 | - Karlsruhe            | 35.02 | 12:30/16:00 | 2:39:01 | 13.2/24.7 |
-| 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
-| 13/4 | - near Neuf-Brisach    | 50**  | 09:30/20:15 | ??????? | ????/???? |
-| 14/4 | - Basel                | 37.14 | 09:00/15:00 | 3:36:42 | 10.2/20.1 |
-| 15/4 | - Seppenweid           | 26.65 | 16:30/19:30 | 2:49:22 |  9.4/22.2 |
+| 22/4 | Laas - Lavis           | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
+| 23/4 | - Levico Terme         | 22.89 | 16:15/19:30 | 2:27:16 |  9.3/31.9 |
+
+**22/04/16**
+Today's headwind has a name! Rode a pretty huge distance into the Garda Lake Wind, quite proud that I managed to keep the pedals turning and keep the average up - the locals thought I was crazy, even got a 'bravo'. Baking hot, humid day, scenery straight out of sci-fi. I'm staying with Nadia and Dario, a really lovely Italian couple who have taken me out for delicious ice cream and taught me all about Italy and it's many linguistic complexities. Italy is certainly growing on me.
+
+####Part 4: Switzerland, Liechtenstein, and Austria
+Days 23-29 on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 15/4 | Basel - Seppenweid     | 26.65 | 16:30/19:30 | 2:49:22 |  9.4/22.2 |
 | 16/4 | - Sursee               | 25.39 | 10:00/14:00 | 2:12:55 | 11.4/32.6 |
 | 17/4 | - Zug                  | 29.39 | 13:30/19:00 | 3:06:26 |  9.4/28.6 |
 | 18/4 | - Mels                 | 62.43 | 10:00/19:00 | 5:57:41 | 10.4/26.5 |
 | 19/4 | - Dalaas               | 47.42 | 10:30/19:30 | 4:17:53 | 11.0/26.8 |
 | 20/4 | - near Ried            | 46.60 | 10:30/18:30 | 4:55:50 |  9.4/40.7 |
 | 21/4 | - Laas                 | 52.29 | 10:30/19:00 | 5:42:15 |  9.1/33.7 |
-| 22/4 | - Lavis                | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
-
-*\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
-
-*\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
-
-**22/04/16**
-Today's headwind has a name! Rode a pretty huge distance into the Garda Lake Wind, quite proud that I managed to keep the pedals turning and keep the average up - the locals thought I was crazy, even got a 'bravo'. Baking hot, humid day, scenery straight out of sci-fi. I'm staying with Nadia and Dario, a really lovely Italian couple who have taken me out for delicious ice cream and taught me all about Italy and it's many linguistic complexities. Italy is certainly growing on me.
 
 **21/04/16**
 Local campsite wanted €17 for a pitch, and so I am sitting high above a wide valley, the sun just set over the mountains from whence I came today, watching the bustle in the valley and listening to the bells around the necks of the goats on the hillside below me. Today in numbers: border crossings - 3; countries - 3; languages that I don't know - 3; pizzas - 0; altitude reached - 1530m; coffees - just one. Italy has been mixed so far. At first I considered heading straight back to Austria, but i'll give the place a chance. I haven't really scratched the surface of the culture, but in my defense that's tricky when everywhere is shut and everyone is presumably asleep.
@@ -69,6 +55,26 @@ Basel is a cool and exciting place, i'm pleased to have got a little tour. I saw
 
 **14/04/16**
 I'm in Switzerland! Awesome Couchsurfers made fondue - very tasty. Basel seems great. But where to go next?
+
+####Part 3: Germany and France
+Days 14-22 on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 06/4 | Dreidlandenpunt - Bad Neuenahr-Ahrweiler | 73.76 | 10:00/19:45 | 6:50:24 | 10.7/29.4 |
+| 07/4 | - near Siebenborn      | 40.04 | 10:00/19:30 | 3:52:58 | 10.3/22.5 |
+| 08/4 | - Eltville             | 45.90 | 10:00/16:00 | 3:59:40 | 11.4/22.9 |
+| 09/4 | - Mannheim             | 59.84*| 10:30/19:00 | 5:07:36 | 11.6/30.3 |
+| 10/4 | - Heidelberg           | 18.26 | 14:30/16:30 | 1:47:36 | 10.1/20.6 |
+| 11/4 | - Karlsruhe            | 35.02 | 12:30/16:00 | 2:39:01 | 13.2/24.7 |
+| 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
+| 13/4 | - near Neuf-Brisach    | 50**  | 09:30/20:15 | ??????? | ????/???? |
+| 14/4 | - Basel                | 37.14 | 09:00/15:00 | 3:36:42 | 10.2/20.1 |
+
+
+*\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
+
+*\*\* No bike computer data from today. Problems with low transmitter battery, and interference with speaker charge cable meant nothing usable. Should be fixed now though. Mileage is approximate, from Google Maps.*
 
 **13/04/16**
 What started as a wet, slow, miserable day has turned really great this afternoon and evening. Not the most interesting ride, but France has decided to put up with me, and the scenery is teasing epicness. I happened to come across a friend of the person who i'm staying with tomorrow, we shared food next to the canal, and I had a go on her recumbent - I want one!
@@ -96,6 +102,18 @@ Haven't managed to get any updates out in a while, as i've been busy doing thing
 **06/04/16**
 I'm in *bad* place tonight. Har har har. In all seriousness, I am a terrible cycle tourist. It's so beautiful how people can pick the perfect spot two hours before sundown and spend the evening cooking and meditating and soaking in nature or whatever. About that though... I'll keep trying. Today, I got to two hours before sundown, and there were some more miles I wanted to do. Anyway, i'm almost at the Rhine already. No regrets, camped up in the most tranquil spot.
 
+####Part 2: The Netherlands and Belgium
+Days 8-13 on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 31/3 | IJmuiden - Delft       | 56.22 | 09:30/18:30 | 5:04:16 | 11.0/24.6 |
+| 01/4 | - Gooren en Krochten   | 65.77 | 10:30/20:00 | 5:42:18 | 11.5/20.2 |
+| 02/4 | - near Westerlo        | 52.62 | 10:30/18:30 | 4:34:55 | 11.4/20.2 |
+| 03/4 | - Leuven               | 19.59 | 11:30/14:00 | 1:44:39 | 11.2/19.0 |
+| 04/4 | - Maastricht           | 50.42 | 11:00/18:00 | 4:14:16 | 11.8/22.5 |
+| 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
+
 **05/04/16**
 I'm camped in the Netherlands, about 300 meters from Germany and 400 from Belgium. Yesterday I had a beautiful quick ride (dat average) to Maastricht, where I had a brilliant time seeing the city, meeting locals, and visiting the weirdest and possibly best beer bar i've ever been to. Today completed the city tour, and featured a quick trip to a cool blues bar full of character. Thanks to Aleks for the tour and for letting me crash, first Couchsurfing experience definitely a positive one. Got a few miles in before dark, but I found some hills in the Netherlands, and had some slight bike-issues (nothing significant I hope) so it was slow going. Off to join the Rhine next!
 
@@ -110,6 +128,19 @@ Pole camping again, this time in Belgium. I spent the day riding with the Texans
 
 **31/03/16**
 Everyone is driving on the wrong side, the cyclists are crazy, and the language sounds silly, but the Netherlands is awesome! Really incredible cyclepaths - I haven't enjoyed the actual 'cycling' part of touring so much, well, ever. Rather than stay the day in Haarlem or Amsterdam as i'd intended, i've found myself 56 miles along in Delft. Really pretty and friendly place, I could spend some time here if the cyclepaths weren't so good.
+
+####Part 1: Aberdeen to Amsterdam (nearly)
+Days 1-7 on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 24/3 | Aberdeen - Lairhillock | 12.60 | 17:30/19:15 | 1:10:05 | 10.7/23.6 |
+| 25/3 | - Dundee               | 65.48 | 10:00/20:45 | 7:39:42 |  8.5/29.8 |
+| 26/3 | - St Andrews           | 13.35 | 10:00/12:30 | 1:25:03 |  9.4/21.8 |
+| 27/3 | - Edinburgh            | 52.68 | 10:15/19:30 | 5:46:18 |  9.1/28.2 |
+| 28/3 | Berwick - Chathill     | 43.64 | 12:00/19:00 | 4:20:18 | 10.0/24.1 |
+| 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
+| 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
 
 **30/03/16 (again again)**
 You'd have thought that the ferry live-musician would know how to tune a guitar, huh? So far the Orkney ferry is winning.
