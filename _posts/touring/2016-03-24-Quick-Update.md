@@ -17,6 +17,10 @@ Days 30 to the present, on the road.
 | --- | ---------------- | ----------  | ----------- | ----------------- |
 | 22/4 | Laas - Lavis    | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
 | 23/4 | - Levico Terme  | 22.89 | 16:15/19:30 | 2:27:16 |  9.3/31.9 |
+| 24/4 | - Padova        | 77.66 | 10:00/18:30 | 6:21:56 | 12.1/31.2 |
+
+**25/04/16**
+Yesterday I finally left the mountains and valleys, and reached a flatter, more industrial, somewhat less beautiful and impressive part of Italy. Staying with Federico, another cyclist, who took me to an electronic music concert last night, awesome new cultural experience! Quite different to Nadia's garden. Italy is a very diverse place.
 
 **23/04/16**
 Fascinating day: very un-touristy little cafe for breakfast, where I tried a very *very* local creation, the hazelnut heart. Nadia and her gardening-buddy Damiano took me to see their community garden, a weird kinda artistic organic garden in the most incredible setting where they experiment with all sorts of symbiotic combinations of tasty vegetables. Damiano is hugely passionate about agriculture, and I got a fantastic tour. Not the most productive day's ride - I left late anyway, but then underestimated the climb out of Trento, and had some trouble navigating the un-German bike paths, but at least the promised rain didn't materialise until I stopped. Towards Venice tomorrow, probably.
