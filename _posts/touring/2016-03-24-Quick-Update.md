@@ -21,6 +21,9 @@ Days 30 to the present, on the road.
 | 25/4 | - Venice (Mestre) | 28.05 | 14:00/17:30 | 2:45:25 | 10.1/17.5 |
 | 26/4 | - near Eraclea  | 30.74 | 15:30/18:45 | 2:40:17 | 11.5/19.5 |
 
+**26/04/16 (again)**
+I forgot to mention it, but when I got to Padova on Sunday, I crossed the milestone of being more than 1000 miles from Aberdeen where I started, as the crow flies. I'm also now a fair chunk closer to Istanbul than the Aberdeen. (If anyone is following my route, I may or may not have a new destination in mind.)
+
 **26/04/16**
 Bad Italian cycling infrastructure is really, ridiculously terrible. Like, official signposted (well...) bike path being underwater so I had to backtrack and join the busy road terrible. And I thought that arrows were a pretty foolproof graphical tool for indicating direction, until I got to Italy.
 
