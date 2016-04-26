@@ -18,6 +18,13 @@ Days 30 to the present, on the road.
 | 22/4 | Laas - Lavis    | 76.28 | 09:15/18:15 | 6:15:47 | 12.2/30.7 |
 | 23/4 | - Levico Terme  | 22.89 | 16:15/19:30 | 2:27:16 |  9.3/31.9 |
 | 24/4 | - Padova        | 77.66 | 10:00/18:30 | 6:21:56 | 12.1/31.2 |
+| 25/4 | - Venice (Mestre) | 28.05 | 14:00/17:30 | 2:45:25 | 10.1/17.5 |
+| 26/4 | - near Eraclea  | 30.74 | 15:30/18:45 | 2:40:17 | 11.5/19.5 |
+
+**26/04/16**
+Bad Italian cycling infrastructure is really, ridiculously terrible. Like, official signposted (well...) bike path being underwater so I had to backtrack and join the busy road terrible. And I thought that arrows were a pretty foolproof graphical tool for indicating direction, until I got to Italy.
+
+I get that out of the way first, so that I can now mention Venice. It is a fantastic (in the literal sense) and enchanting city. Last night I got the bus over, then put away all my maps and GPS, and just got as lost as I could for a couple of hours, with John Frusciante in one ear. Today I got a slightly more mainstream, touristy view of the place with a walking tour. It's so rich with character and wonder, I couldn't hope to adequately describe the place without a vocabulary boost. It is certainly particular, as at least one Italian has described it to me.
 
 **25/04/16**
 Yesterday I finally left the mountains and valleys, and reached a flatter, more industrial, somewhat less beautiful and impressive part of Italy. Staying with Federico, another cyclist, who took me to an electronic music concert last night, awesome new cultural experience! Quite different to Nadia's garden. Italy is a very diverse place.
