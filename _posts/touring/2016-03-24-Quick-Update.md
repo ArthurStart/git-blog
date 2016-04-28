@@ -10,8 +10,22 @@ image:
 
 *In reverse chronological order, now split into parts for ease of use.*
 
-#### Part 5: Italy...
-Days 30 to the present, on the road.
+#### Part 6: The Balkans
+Days 36 to the present, on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 28/4 | Rožna Dolina - Dol pri Ljubljani | 64.93 | 10:30/20:20 | 6:38:39 | 9.7/26.8 |
+
+**28/04/16 (again)**
+So Slovenia is the first country where I don't have a semi-reliable stereotype to set my expectations. My raw and relatively unbiased first impression is great.
+
+The first night was not so pleasant: I arrived a refugee from the Italian drivers and thunderstorm shortly before dark, in heavy rain. I found a suitable and pleasant wood, however to omit the expletives, let's just say that the tent pole broke, again. Same failure mode, different place. When Vango say that pole breakages are considered normal wear and tear, apparently they mean it. Well let's not dwell, fortunately the rest of my kit is serving me excellently, and I got the tent bodged once more.
+
+Since they, i've experienced warm and friendly people, picturesque landscapes, beautiful mountain roads (wasn't expecting to climb to 900m), lots and lots of unseasonal snow, more picturesque landscapes, and some very gracious CS hosts tonight. Looking forward to getting to know the place a little better!
+
+#### Part 5: Italy
+Days 30-35 on the road.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
@@ -20,6 +34,10 @@ Days 30 to the present, on the road.
 | 24/4 | - Padova        | 77.66 | 10:00/18:30 | 6:21:56 | 12.1/31.2 |
 | 25/4 | - Venice (Mestre) | 28.05 | 14:00/17:30 | 2:45:25 | 10.1/17.5 |
 | 26/4 | - near Eraclea  | 30.74 | 15:30/18:45 | 2:40:17 | 11.5/19.5 |
+| 27/4 | - near Rožna Dolina | 68.66 | 9:30/19:00 | 5:54:30 | 11.6/21.2 |
+
+**28/04/16**
+Been riding hard for a few days, not managed to update or upload this. My honest review of Italy will wait for another day, but i'll say now that of all the countries i've visited, Italy is the first where I can say that I wouldn't be disappointed never to return. This does a terrible disservice to the really wonderful people who hosted me, and some others I met along the way, and for them I am truly grateful. I'm also able to tuck Venice away as an experience that i'll never forget. All in all, certainly worth it. On a more positive not, my last day in which I dashed for the border was largely pleasant and smooth cycling, until Italy had a last laugh by throwing a little thunderstorm my way. Arrivederci Italy, perhaps.
 
 **26/04/16 (again)**
 I forgot to mention it, but when I got to Padova on Sunday, I crossed the milestone of being more than 1000 miles from Aberdeen where I started, as the crow flies. I'm also now a fair chunk closer to Istanbul than the Aberdeen. (If anyone is following my route, I may or may not have a new destination in mind.)
