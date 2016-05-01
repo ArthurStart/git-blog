@@ -17,10 +17,10 @@ Days 36 to the present, on the road.
 | --- | ---------------- | ----------  | ----------- | ----------------- |
 | 28/4 | Rožna Dolina - Dol pri Ljubljani | 64.93 | 10:30/20:20 | 6:38:39 | 9.7/26.8 |
 | 29/4 | - Ljubljana     | 8.31 | 18:00/19:00 | 0:50:22 | 9.9/17.5 |
-| 30/4 | *rest day* |
+| 30/4 | *rest day in beautiful Ljubljana* |
 
 **01/05/16**
-Ended up staying an extra day in Ljubljana, i've met a load of travellers and some locals and for (a) rest day(s) it has not been very restful at all, but i've been having a great and memorable time. Almost ready to get out into the rain again, eager to get onto the road.
+Ended up staying an extra day in Ljubljana, i've met a load of travellers and some locals and for (a) rest day(s) it has not been very restful at all, but i've been having a great and memorable time. Picked up some stories. Almost ready to get out into the rain again, i'm gathering moss and eager to get onto the road.
 
 **28/04/16 (again)**
 So Slovenia is the first country where I don't have a semi-reliable stereotype to set my expectations. My raw and relatively unbiased first impression is great.
