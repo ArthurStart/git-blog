@@ -16,8 +16,12 @@ Days 36 to the present, on the road.
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
 | 28/4 | Rožna Dolina - Dol pri Ljubljani | 64.93 | 10:30/20:20 | 6:38:39 | 9.7/26.8 |
-| 29/4 | - Ljubljana     | 8.31 | 18:00/19:00 | 0:50:22 | 9.9/17.5 |
+| 29/4 | - Ljubljana     |  8.31 | 18:00/19:00 | 0:50:22 | 9.9/17.5 |
 | 30/4 | *rest day in beautiful Ljubljana* |
+| 01/5 | - Straža        | 39.83 | 14:00/19:00 | 3:46:10 | 10.5/24.6 |
+
+**01/05/16**
+I've got a month left now, and the deadline finally bears my signature. I'm sad to have an end in sight! Aiming for Istanbul, which is 771 miles south-east as the crow flies. Way behind on this blog, i've been too busy enjoying myself lately.
 
 **01/05/16**
 Ended up staying an extra day in Ljubljana, i've met a load of travellers and some locals and for (a) rest day(s) it has not been very restful at all, but i've been having a great and memorable time. Picked up some stories. Almost ready to get out into the rain again, i'm gathering moss and eager to get onto the road.
