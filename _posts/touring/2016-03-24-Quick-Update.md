@@ -20,6 +20,10 @@ Days 36 to the present, on the road.
 | 30/4 | *rest day in beautiful Ljubljana* |
 | 01/5 | - Straža        | 39.83 | 14:00/19:00 | 3:46:10 | 10.5/24.6 |
 | 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
+| 03/5 | - Brinyani      | 58.52 | 12:00/19:00 | 4:56:26 | 11.8/31.8 |
+
+**03/05/16**
+Croatia is a very different beast to Slovenia. I've experienced the huge, smoggy, vibrant urban metropolis of Zagreb, then decrepit farmsteads and time-machine villages, giving way to a lush green countryside complete with vineyards. Tonight i've had an insight into the small village life. Checking my map in Kutina to find a place to camp, a local came and offered help. Then offered to buy me a coffee. Then showed me a place I could camp. Then changed his mind and offered to let me stay in the spare room in his house. And so as we walked 7km back, I learnt all sorts about Croatia, from the economic situation (catastroph!) to the modern culture. I'm tenting in his family's garden now, and more than happy with it: honestly Adam, your country isn't that cold!
 
 **02/05/16**
 So on Saturday on the walking tour of Ljubljana, I met two Germans, an Austrian, and a Croatian, and ended up spending the afternoon exploring the city with them. This evening i've met up with Anna and Daniela again in Zagreb where they're on Erasmus, they've shown me Zagreb and we've had a few beers. Sometimes doing touristy things turns out to be really great value. If they get around to booking it, we'll have a gig to play in Belgrade next weekend, too!
