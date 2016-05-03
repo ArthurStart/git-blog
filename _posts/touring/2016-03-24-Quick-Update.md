@@ -19,6 +19,10 @@ Days 36 to the present, on the road.
 | 29/4 | - Ljubljana     |  8.31 | 18:00/19:00 | 0:50:22 | 9.9/17.5 |
 | 30/4 | *rest day in beautiful Ljubljana* |
 | 01/5 | - Straža        | 39.83 | 14:00/19:00 | 3:46:10 | 10.5/24.6 |
+| 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
+
+**02/05/16**
+So on Saturday on the walking tour of Ljubljana, I met two Germans, an Austrian, and a Croatian, and ended up spending the afternoon exploring the city with them. This evening i've met up with Anna and Daniela again in Zagreb where they're on Erasmus, they've shown me Zagreb and we've had a few beers. Sometimes doing touristy things turns out to be really great value. If they get around to booking it, we'll have a gig to play in Belgrade next weekend, too.
 
 **01/05/16**
 I've got a month left now, and the deadline finally bears my signature. I'm sad to have an end in sight! Aiming for Istanbul, which is 771 miles south-east as the crow flies. Way behind on this blog, i've been too busy enjoying myself lately.
@@ -46,7 +50,7 @@ Days 30-35 on the road.
 | 27/4 | - near Rožna Dolina | 68.66 | 9:30/19:00 | 5:54:30 | 11.6/21.2 |
 
 **28/04/16**
-Been riding hard for a few days, not managed to update or upload this. My honest review of Italy will wait for another day, but i'll say now that of all the countries i've visited, Italy is the first where I can say that I wouldn't be disappointed never to return. This does a terrible disservice to the really wonderful people who hosted me, and some others I met along the way, and for them I am truly grateful. I'm also able to tuck Venice away as an experience that i'll never forget. All in all, certainly worth it. On a more positive not, my last day in which I dashed for the border was largely pleasant and smooth cycling, until Italy had a last laugh by throwing a little thunderstorm my way. Arrivederci Italy, perhaps.
+Been riding hard for a few days, not managed to update or upload this. My honest review of Italy will wait for another day, but i'll say now that of all the countries i've visited, Italy is the first where I can say that I wouldn't be disappointed never to return. This does a terrible disservice to the really wonderful people who hosted me, and some others I met along the way, and for them I am truly grateful. I'm also able to tuck Venice away as an experience that i'll never forget. All in all, certainly worth it. On a more positive note, my last day in which I dashed for the border was largely pleasant and smooth cycling, until Italy had a last laugh by throwing a little thunderstorm my way. Arrivederci Italy, perhaps.
 
 **26/04/16 (again)**
 I forgot to mention it, but when I got to Padova on Sunday, I crossed the milestone of being more than 1000 miles from Aberdeen where I started, as the crow flies. I'm also now a fair chunk closer to Istanbul than the Aberdeen. (If anyone is following my route, I may or may not have a new destination in mind.)
