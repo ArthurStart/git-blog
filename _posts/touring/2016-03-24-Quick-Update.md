@@ -22,7 +22,7 @@ Days 36 to the present, on the road.
 | 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
 
 **02/05/16**
-So on Saturday on the walking tour of Ljubljana, I met two Germans, an Austrian, and a Croatian, and ended up spending the afternoon exploring the city with them. This evening i've met up with Anna and Daniela again in Zagreb where they're on Erasmus, they've shown me Zagreb and we've had a few beers. Sometimes doing touristy things turns out to be really great value. If they get around to booking it, we'll have a gig to play in Belgrade next weekend, too.
+So on Saturday on the walking tour of Ljubljana, I met two Germans, an Austrian, and a Croatian, and ended up spending the afternoon exploring the city with them. This evening i've met up with Anna and Daniela again in Zagreb where they're on Erasmus, they've shown me Zagreb and we've had a few beers. Sometimes doing touristy things turns out to be really great value. If they get around to booking it, we'll have a gig to play in Belgrade next weekend, too!
 
 **01/05/16**
 I've got a month left now, and the deadline finally bears my signature. I'm sad to have an end in sight! Aiming for Istanbul, which is 771 miles south-east as the crow flies. Way behind on this blog, i've been too busy enjoying myself lately.
