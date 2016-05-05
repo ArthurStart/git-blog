@@ -21,6 +21,15 @@ Days 36 to the present, on the road.
 | 01/5 | - Straža        | 39.83 | 14:00/19:00 | 3:46:10 | 10.5/24.6 |
 | 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
 | 03/5 | - Brinyani      | 58.52 | 12:00/19:00 | 4:56:26 | 11.8/31.8 |
+| 04/5 | - Slavonski Brod | 86.69 | 09:30/17:30* | 7:00:57 | 12.3/29.9 |
+| 05/5 | - near Ritešić  | 32.30 | 15:30/19:00 | 2:50:49 | 11.3/23.1 |
+
+*\* N.B. Computer stats include some time/distance spent going into town and dawdling about. 20:30 or so before I got to the night's final destination.*
+
+**05/05/16**
+A concern has crossed my mind before, that once I got this far east, i'd be skimming over the surface of the countries, wildcamping out of sight each night, interacting with the locals only so far as is necessary to buy food. I thought maybe that I wouldn't discover so much about the culture and history of the area. And, most worryingly, that I wouldn't have anything interesting to blog about... (I thought I might even be able to catch up on the backlog.) Well, so far, I need not have been concerned.
+
+Yesterday, I rode possibly the furthest i've ever done in one day, to Slavonski Brod. There I stayed with the coolest and most fascinating couple in an otherwise dull town. Manja and Tomislav made me feel at home, and really gave me an impression of what Croatia is like (a very candid impression, certainly not all good). They farm goats and make cheese for a living, and this morning I got to meet the goats and further find out what life is like there. Today, though I was sorely tempted to take Manja up on her offer of another night in Slavonski Brod, I have begun heading into Bosnia & Herzegovina, towards Sarajevo. Hampered by a very dramatic thunderstorm (earth shattering crashes of thunder, sky rent asunder, etc. etc.) i've nonetheless got quite a first impression. Through asking whether I could camp in a nearby field, I have ended up meeting a family, being given beer and food from the whole pig freshly roasted over a fire, being invited into the house for coffee, offered a hut to stay in, all despite very little shared language. I've gained a bunch of Facebook friends (some literally from the side of the road), had demonstrated just how hospitable the Bosnians can be already, and i'm feeling a little like some kind of superstar visiting from faraway foreign dream-lands.
 
 **03/05/16**
 Croatia is a very different beast to Slovenia. I've experienced the huge, smoggy, vibrant urban metropolis of Zagreb, then decrepit farmsteads and time-machine villages, giving way to a lush green countryside complete with vineyards. Tonight i've had an insight into the small village life. Checking my map in Kutina to find a place to camp, a local came and offered help. Then offered to buy me a coffee. Then showed me a place I could camp. Then changed his mind and offered to let me stay in the spare room in his house. And so as we walked 7km back, I learnt all sorts about Croatia, from the economic situation (catastroph!) to the modern culture. I'm tenting in his family's garden now, and more than happy with it: honestly Adam, your country isn't that cold!
@@ -51,7 +60,7 @@ Days 30-35 on the road.
 | 24/4 | - Padova        | 77.66 | 10:00/18:30 | 6:21:56 | 12.1/31.2 |
 | 25/4 | - Venice (Mestre) | 28.05 | 14:00/17:30 | 2:45:25 | 10.1/17.5 |
 | 26/4 | - near Eraclea  | 30.74 | 15:30/18:45 | 2:40:17 | 11.5/19.5 |
-| 27/4 | - near Rožna Dolina | 68.66 | 9:30/19:00 | 5:54:30 | 11.6/21.2 |
+| 27/4 | - near Rožna Dolina | 68.66 | 09:30/19:00 | 5:54:30 | 11.6/21.2 |
 
 **28/04/16**
 Been riding hard for a few days, not managed to update or upload this. My honest review of Italy will wait for another day, but i'll say now that of all the countries i've visited, Italy is the first where I can say that I wouldn't be disappointed never to return. This does a terrible disservice to the really wonderful people who hosted me, and some others I met along the way, and for them I am truly grateful. I'm also able to tuck Venice away as an experience that i'll never forget. All in all, certainly worth it. On a more positive note, my last day in which I dashed for the border was largely pleasant and smooth cycling, until Italy had a last laugh by throwing a little thunderstorm my way. Arrivederci Italy, perhaps.
@@ -122,7 +131,6 @@ Days 14-22 on the road. Blog post in the works.
 | 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
 | 13/4 | - near Neuf-Brisach    | 50**  | 09:30/20:15 | ??????? | ????/???? |
 | 14/4 | - Basel                | 37.14 | 09:00/15:00 | 3:36:42 | 10.2/20.1 |
-
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
