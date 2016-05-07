@@ -23,8 +23,15 @@ Days 36 to the present, on the road.
 | 03/5 | - Brinyani      | 58.52 | 12:00/19:00 | 4:56:26 | 11.8/31.8 |
 | 04/5 | - Slavonski Brod | 86.69 | 09:30/17:30* | 7:00:57 | 12.3/29.9 |
 | 05/5 | - near Ritešić  | 32.30 | 15:30/19:00 | 2:50:49 | 11.3/23.1 |
+| 06/5 | - Dolipolje     | ~75** | 10:00/19:00 |         |           |
+| 07/5 | - Sarajevo      | 40.22 | 12:30/17:30 | 4:02:24 |  9.9/29.1 |
 
 *\* N.B. Computer stats include some time/distance spent going into town and dawdling about. 20:30 or so before I got to the night's final destination.*
+
+*\*\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
+
+**07/05/16**
+As i've been riding, i've been listening to podcasts, most recently about the history of WW1 (Dan Carlin's 'Blueprint for Armageddon' series). This evening I visited the bridge where Archduke Franz Ferdinand was assassinated, sparking the whole thing. Pretty fitting! Sarajevo seems nice so far. Bosnia is an entirely different world from Western Europe.
 
 **05/05/16**
 A concern has crossed my mind before, that once I got this far east, i'd be skimming over the surface of the countries, wildcamping out of sight each night, interacting with the locals only so far as is necessary to buy food. I thought maybe that I wouldn't discover so much about the culture and history of the area. And, most worryingly, that I wouldn't have anything interesting to blog about... (I thought I might even be able to catch up on the backlog.) Well, so far, I need not have been concerned.
