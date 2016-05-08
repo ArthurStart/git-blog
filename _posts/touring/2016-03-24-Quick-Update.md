@@ -25,10 +25,14 @@ Days 36 to the present, on the road.
 | 05/5 | - near Ritešić  | 32.30 | 15:30/19:00 | 2:50:49 | 11.3/23.1 |
 | 06/5 | - Dolipolje     | ~75** | 10:00/19:00 |         |           |
 | 07/5 | - Sarajevo      | 40.22 | 12:30/17:30 | 4:02:24 |  9.9/29.1 |
+| 08/5 | *rest day in history-drenched Sarajevo* |
 
 *\* N.B. Computer stats include some time/distance spent going into town and dawdling about. 20:30 or so before I got to the night's final destination.*
 
 *\*\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
+
+**08/05/16**
+Sarajevo has significant history much more recent than WW1. From 1992, the city was under siege by Serbian forces for 46 months! The guide on my tour earlier was seven when the siege started, and with a wonderfully black sense of humour told stories of having to run fast to fetch water, because of snipers. It's striking how the people who i've spoken to, who were in the siege, sort of downplay it and find things to laugh about. The Sarajevo Roses seem representative of this: where a shell caused damage to the pavement, if somebody died as a result of the shell, the damage has been filled with red resin, creating a memorial that is very present, yet inconspicuous. They are all over the city! Harrowing.
 
 **07/05/16**
 As i've been riding, i've been listening to podcasts, most recently about the history of WW1 (Dan Carlin's 'Blueprint for Armageddon' series). This evening I visited the bridge where Archduke Franz Ferdinand was assassinated, sparking the whole thing. Pretty fitting! Sarajevo seems nice so far. Bosnia is an entirely different world from Western Europe.
