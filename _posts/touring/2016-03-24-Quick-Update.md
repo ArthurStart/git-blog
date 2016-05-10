@@ -11,6 +11,7 @@ image:
 *In reverse chronological order, now split into parts for ease of use.*
 
 #### Part 7: Bosnia & Herzegovina and Serbia
+Days 43 to the present, on the road.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
@@ -22,6 +23,9 @@ image:
 | 10/5 | - nearish Priboj | 71.42 | 10:00/19:45 | 6:41:32 | 10.6/33.3 |
 
 *\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
+
+**10/05/16**
+Today has been a day of the about-as-fresh-as-possible goats' milk, unexpected hills, incredible Balkan landscapes, coffee with the local English teachers who happen to hang around at petrol stations, and new passport stamps. I am in Serbia!
 
 **09/05/16**
 Balkans convincing me today that they are in fact mountainous, as promised. Nothing too dramatic, but enough to slow me down a little. I'm benefitting from the famous Muslim hospitality tonight: a cheerful goat farmer stopped me by the side of the road with her flock of tiny goats, and invited me back to stay, for food, and to meet her sons who speak some English. More fascinating insights into a different world!
