@@ -10,27 +10,18 @@ image:
 
 *In reverse chronological order, now split into parts for ease of use.*
 
-#### Part 6: The Balkans
-Days 36 to the present, on the road.
+#### Part 7: Bosnia & Herzegovina and Serbia
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
-| 28/4 | Rožna Dolina - Dol pri Ljubljani | 64.93 | 10:30/20:20 | 6:38:39 | 9.7/26.8 |
-| 29/4 | - Ljubljana     |  8.31 | 18:00/19:00 | 0:50:22 | 9.9/17.5 |
-| 30/4 | *rest day in beautiful Ljubljana* |
-| 01/5 | - Straža        | 39.83 | 14:00/19:00 | 3:46:10 | 10.5/24.6 |
-| 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
-| 03/5 | - Brinyani      | 58.52 | 12:00/19:00 | 4:56:26 | 11.8/31.8 |
-| 04/5 | - Slavonski Brod | 86.69 | 09:30/17:30* | 7:00:57 | 12.3/29.9 |
-| 05/5 | - near Ritešić  | 32.30 | 15:30/19:00 | 2:50:49 | 11.3/23.1 |
-| 06/5 | - Dolipolje     | ~75** | 10:00/19:00 |         |           |
+| 05/5 | Slavonski Brod - near Ritešić  | 32.30 | 15:30/19:00 | 2:50:49 | 11.3/23.1 |
+| 06/5 | - Dolipolje     | ~75* | 10:00/19:00 |         |           |
 | 07/5 | - Sarajevo      | 40.22 | 12:30/17:30 | 4:02:24 |  9.9/29.1 |
 | 08/5 | *rest day in history-drenched Sarajevo* |
 | 09/5 | - near Bare     | 33.40 | 13:30/19:30 | 4:03:00 |  8.2/30.6 |
+| 10/5 | - nearish Priboj | 71.42 | 10:00/19:45 | 6:41:32 | 10.6/33.3 |
 
-*\* N.B. Computer stats include some time/distance spent going into town and dawdling about. 20:30 or so before I got to the night's final destination.*
-
-*\*\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
+*\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
 
 **09/05/16**
 Balkans convincing me today that they are in fact mountainous, as promised. Nothing too dramatic, but enough to slow me down a little. I'm benefitting from the famous Muslim hospitality tonight: a cheerful goat farmer stopped me by the side of the road with her flock of tiny goats, and invited me back to stay, for food, and to meet her sons who speak some English. More fascinating insights into a different world!
@@ -45,6 +36,21 @@ As i've been riding, i've been listening to podcasts, most recently about the hi
 A concern has crossed my mind before, that once I got this far east, i'd be skimming over the surface of the countries, wildcamping out of sight each night, interacting with the locals only so far as is necessary to buy food. I thought maybe that I wouldn't discover so much about the culture and history of the area. And, most worryingly, that I wouldn't have anything interesting to blog about... (I thought I might even be able to catch up on the backlog.) Well, so far, I need not have been concerned.
 
 Yesterday, I rode possibly the furthest i've ever done in one day, to Slavonski Brod. There I stayed with the coolest and most fascinating couple in an otherwise dull town. Manja and Tomislav made me feel at home, and really gave me an impression of what Croatia is like (a very candid impression, certainly not all good). They farm goats and make cheese for a living, and this morning I got to meet the goats and further find out what life is like there. Today, though I was sorely tempted to take Manja up on her offer of another night in Slavonski Brod, I have begun heading into Bosnia & Herzegovina, towards Sarajevo. Hampered by a very dramatic thunderstorm (earth shattering crashes of thunder, sky rent asunder, etc. etc.) i've nonetheless got quite a first impression. Through asking whether I could camp in a nearby field, I have ended up meeting a family, being given beer and food from the whole pig freshly roasted over a fire, being invited into the house for coffee, offered a hut to stay in, all despite very little shared language. I've gained a bunch of Facebook friends (some literally from the side of the road), had demonstrated just how hospitable the Bosnians can be already, and i'm feeling a little like some kind of superstar visiting from faraway foreign dream-lands.
+
+#### Part 6: Slovenia and Croatia
+Days 36 to 42 on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 28/4 | Rožna Dolina - Dol pri Ljubljani | 64.93 | 10:30/20:20 | 6:38:39 | 9.7/26.8 |
+| 29/4 | - Ljubljana     |  8.31 | 18:00/19:00 | 0:50:22 | 9.9/17.5 |
+| 30/4 | *rest day in beautiful Ljubljana* |
+| 01/5 | - Straža        | 39.83 | 14:00/19:00 | 3:46:10 | 10.5/24.6 |
+| 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
+| 03/5 | - Brinyani      | 58.52 | 12:00/19:00 | 4:56:26 | 11.8/31.8 |
+| 04/5 | - Slavonski Brod | 86.69 | 09:30/17:30* | 7:00:57 | 12.3/29.9 |
+
+*\* N.B. Computer stats include some time/distance spent going into town and dawdling about. 20:30 or so before I got to the night's final destination.*
 
 **03/05/16**
 Croatia is a very different beast to Slovenia. I've experienced the huge, smoggy, vibrant urban metropolis of Zagreb, then decrepit farmsteads and time-machine villages, giving way to a lush green countryside complete with vineyards. Tonight i've had an insight into the small village life. Checking my map in Kutina to find a place to camp, a local came and offered help. Then offered to buy me a coffee. Then showed me a place I could camp. Then changed his mind and offered to let me stay in the spare room in his house. And so as we walked 7km back, I learnt all sorts about Croatia, from the economic situation (catastroph!) to the modern culture. I'm tenting in his family's garden now, and more than happy with it: honestly Adam, your country isn't that cold!
