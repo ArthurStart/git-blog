@@ -21,8 +21,17 @@ Days 43 to the present, on the road.
 | 08/5 | *rest day in history-drenched Sarajevo* |
 | 09/5 | - near Bare     | 33.40 | 13:30/19:30 | 4:03:00 |  8.2/30.6 |
 | 10/5 | - nearish Priboj | 71.42 | 10:00/19:45 | 6:41:32 | 10.6/33.3 |
+| 11/5 | - Vrnjica       | 49.31 | 10:00/19:00 | 5:52:15 |  8.3/35.3 |
+| 12/5 | - Eleskovice    | 61.01 | 10:15/19:45 | 6:30:03 |  9.3/35.8 |
 
 *\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
+
+**12/05/16**
+Serbia has been mixed. I keep getting fed up and disillusioned with the place, and then right on cue meeting fantastic people who force me to change my judgement.
+
+Last night I ate with, drank with, and stayed in the home of Ivana and Miloś. When I passed by their village and asked them if there was a tap for water, they were settling down to an evening with the extended family of two sisters, another partner, a baby, and crazy energetic matriarch figure Slavica. They invited me in, and coffee turned to coffee and rakija, to rakija and beer, and then a feast appeared out of nowhere. It's amazing how much conversation we had using a handful of English, German, and Serbian words, plus gestures (though we turned to Google for the subtler points). More rakija with breakfast. Normal, apparently. This is the kind of experience that makes a country memorable in the best way!
+
+Yesterday I discovered that Serbian road planners like to put their roads right on the highest parts of their favourite mountains, as if people wouldn't appreciate the size of the mountains otherwise. Today I found that a border crossing is not in fact a border crossing, once i'd spent two hours climbing up to 1200m to get to it. Hence, I am still in Serbia. Nice to get some exercise, I guess.
 
 **10/05/16**
 Today has been a day of the about-as-fresh-as-possible goats' milk, unexpected hills, incredible Balkan landscapes, coffee with the local English teachers who happen to hang around at petrol stations, and new passport stamps. I am in Serbia!
