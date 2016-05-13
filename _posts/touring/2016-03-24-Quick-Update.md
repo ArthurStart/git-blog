@@ -23,8 +23,12 @@ Days 43 to the present, on the road.
 | 10/5 | - nearish Priboj | 71.42 | 10:00/19:45 | 6:41:32 | 10.6/33.3 |
 | 11/5 | - Vrnjica       | 49.31 | 10:00/19:00 | 5:52:15 |  8.3/35.3 |
 | 12/5 | - Eleskovice    | 61.01 | 10:15/19:45 | 6:30:03 |  9.3/35.8 |
+| 13/5 | - Pristina      | 56.18 | 09:30/17:00 | 4:54:45 | 11.4/33.5 |
 
 *\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
+
+**13/05/16**
+Kosovo, so far, is surprisingly lovely and pleasant. I expected a bit more 'war torn' and 'ethnic tensions', but instead there's really beautiful scenery and friendly, cool towns. And the food is so good and so cheap - like, fancy fine-dining type food for British fast food prices. Despite the UK Gov warning recommending against all but essential travel, the northern part actually felt safer than parts of Serbia.
 
 **12/05/16**
 Serbia has been mixed. I keep getting fed up and disillusioned with the place, and then right on cue meeting fantastic people who force me to change my judgement.
