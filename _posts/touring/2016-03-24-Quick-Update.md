@@ -18,6 +18,10 @@ Days 51 to the present, on the road.
 | 13/5 | - Pristina      | 56.18 | 09:30/17:00 | 4:54:45 | 11.4/33.5 |
 | 14/5 | - Skopje        | 55.33 | 13:30/19:00 | 3:46:58 | 14.6/32.1 |
 | 15/5 | *rest day in Skopje, city of statues* |
+| 16/5 | - Kokino        | 43.43 | 12:30/19:30 | 5:01:59 |  8.6/26.3 |
+
+**17/05/16**
+I wouldn't have minded some more time in Skopje, but the road ahead calls. Today, on the reasonably nice main route towards Bulgaria, around when I was starting to wonder where to sleep tonight, I saw a sign and decided to take a detour to the Kokino Megalithic Observatory. I rode a truly epic route up into the mountains, the distant horizons filled with cool geography and cities, to a rocky feature 1000m up overlooking all that epicness which at the time was lit by a generous sunset. The observatory is a set of features carved and built into the rock in the Bronze Age for observing solstices and equinoxes (equinoces?), including a set of 'thrones', and there have been finds suggesting ritualistic use. NASA have officially certified it is being very awesome.
 
 **16/05/16**
 On Saturday, I had lunch in one capital, then dinner in the next. In between, I had a really fantastic and fast ride in which I danced with a thunderstorm, and had some pleasant little interactions with locals. For example, my first ever '10/10 highly recommended' overtake: pulled over by the side of the road, checking maps outside Pristina, a car of 30-something men pulls up. The driver says to me in heavily accented English 'Welcome to Republic of Kosovo', leans over to hand me a can of cool orangeade, and then they drive off. Little interactions, huge influences on the mood.
