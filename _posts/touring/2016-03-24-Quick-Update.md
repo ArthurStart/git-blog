@@ -20,7 +20,7 @@ Days 51 to the present, on the road.
 | 15/5 | *rest day in Skopje, city of statues* |
 | 16/5 | - Kokino        | 43.43 | 12:30/19:30 | 5:01:59 |  8.6/26.3 |
 
-**17/05/16**
+**16/05/16**
 I wouldn't have minded some more time in Skopje, but the road ahead calls. Today, on the reasonably nice main route towards Bulgaria, around when I was starting to wonder where to sleep tonight, I saw a sign and decided to take a detour to the Kokino Megalithic Observatory. I rode a truly epic route up into the mountains, the distant horizons filled with cool geography and cities, to a rocky feature 1000m up overlooking all that epicness which at the time was lit by a generous sunset. The observatory is a set of features carved and built into the rock in the Bronze Age for observing solstices and equinoxes (equinoces?), including a set of 'thrones', and there have been finds suggesting ritualistic use. NASA have officially certified it is being very awesome.
 
 **16/05/16**
