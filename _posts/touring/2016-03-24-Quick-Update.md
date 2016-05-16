@@ -10,8 +10,25 @@ image:
 
 *In reverse chronological order, now split into parts for ease of use.*
 
+#### Part 8: Kosovo and Macedonia
+Days 51 to the present, on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 13/5 | - Pristina      | 56.18 | 09:30/17:00 | 4:54:45 | 11.4/33.5 |
+| 14/5 | - Skopje        | 55.33 | 13:30/19:00 | 3:46:58 | 14.6/32.1 |
+| 15/5 | *rest day in Skopje, city of statues* |
+
+**16/05/16**
+On Saturday, I had lunch in one capital, then dinner in the next. In between, I had a really fantastic and fast ride in which I danced with a thunderstorm, and had some pleasant little interactions with locals. For example, my first ever '10/10 highly recommended' overtake: pulled over by the side of the road, checking maps outside Pristina, a car of 30-something men pulls up. The driver says to me in heavily accented English 'Welcome to Republic of Kosovo', leans over to hand me a can of cool orangeade, and then they drive off. Little interactions, huge influences on the mood.
+
+Well, Kosovo had nabbed the crown on 'most stunningly beautiful country in the Balkans' pretty quickly, but Macedonia snatched it away instantly. Skopje, far from the boring city that loads of people have warned me about, seems lively and vibrant. I'm just preparing to leave, but I feel i've barely scratched the surface.
+
+**13/05/16**
+Kosovo, so far, is surprisingly lovely and pleasant. I expected a bit more 'war torn' and 'ethnic tensions', but instead there's really beautiful scenery and friendly, cool towns. And the food is so good and so cheap - like, fancy fine-dining type food for British fast food prices. Despite the UK Gov warning recommending against all but essential travel, the northern part actually felt safer than parts of Serbia.
+
 #### Part 7: Bosnia & Herzegovina and Serbia
-Days 43 to the present, on the road.
+Days 43 to 50 on the road.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
@@ -23,12 +40,8 @@ Days 43 to the present, on the road.
 | 10/5 | - nearish Priboj | 71.42 | 10:00/19:45 | 6:41:32 | 10.6/33.3 |
 | 11/5 | - Vrnjica       | 49.31 | 10:00/19:00 | 5:52:15 |  8.3/35.3 |
 | 12/5 | - Eleskovice    | 61.01 | 10:15/19:45 | 6:30:03 |  9.3/35.8 |
-| 13/5 | - Pristina      | 56.18 | 09:30/17:00 | 4:54:45 | 11.4/33.5 |
 
 *\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
-
-**13/05/16**
-Kosovo, so far, is surprisingly lovely and pleasant. I expected a bit more 'war torn' and 'ethnic tensions', but instead there's really beautiful scenery and friendly, cool towns. And the food is so good and so cheap - like, fancy fine-dining type food for British fast food prices. Despite the UK Gov warning recommending against all but essential travel, the northern part actually felt safer than parts of Serbia.
 
 **12/05/16**
 Serbia has been mixed. I keep getting fed up and disillusioned with the place, and then right on cue meeting fantastic people who force me to change my judgement.
