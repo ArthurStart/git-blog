@@ -19,6 +19,12 @@ Days 51 to the present, on the road.
 | 14/5 | - Skopje        | 55.33 | 13:30/19:00 | 3:46:58 | 14.6/32.1 |
 | 15/5 | *rest day in Skopje, city of statues* |
 | 16/5 | - Kokino        | 43.43 | 12:30/19:30 | 5:01:59 |  8.6/26.3 |
+| 17/5 | - Tarnovlag     | 59.52 | 10:00/20:45* | 6:08:02 | 9.6/42.1 |
+
+*\* I crossed into a new time zone! Duuuude! Both times are local times, but I lost an hour.
+
+**17/05/16**
+Getting out of the mountains this morning proved tough. The 'roads' were often very steep muddy and rocky tracks, and I pushed my bike a few miles. The downhill into the valley once I hit asphalt was beautiful though - new top speed! I've been gradually learning Cyrillic from the bi-alphabetic road signs as I go, and now I can read most words, albeit very slowly. Anyway, on the main road, I didn't really find my rhythm but nonetheless got to the border in good time. Bulgaria has welcomed me with a nice long downhill and a stunning sunset.
 
 **16/05/16**
 I wouldn't have minded some more time in Skopje, but the road ahead calls. Today, on the reasonably nice main route towards Bulgaria, around when I was starting to wonder where to sleep tonight, I saw a sign and decided to take a detour to the Kokino Megalithic Observatory. I rode a truly epic route up into the mountains, the distant horizons filled with cool geography and cities, to a rocky feature 1000m up overlooking all that epicness which at the time was lit by a generous sunset. The observatory is a set of features carved and built into the rock in the Bronze Age for observing solstices and equinoxes (equinoces?), including a set of 'thrones', and there have been finds suggesting ritualistic use. NASA have officially certified it is being very awesome.
