@@ -10,8 +10,22 @@ image:
 
 *In reverse chronological order, now split into parts for ease of use.*
 
+#### Part 9: Bulgaria
+Days 56 to the present, on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 18/5 | Tarnovlag - near Maritsa | 61.70 | 10:45/20:45 | 5:54:48 | 10.4/36.9 |
+| 19/5 | - Plovdiv       | 61.93 | 09:30/17:30 | 4:58:55 | 12.4/24.9 |
+| 20/5 | *rest day in extremely old Plovdiv* |
+
+**20/05/16**
+I am in Plovdiv, the oldest continually inhabited city in Europe. I'm liking Bulgaria so far. The people are strange: they appear unfriendly on the surface, but it seems actually they are just not so outgoing, and once you break through, they are lovely. This makes it easy to spend a while in each little town where you get chatting to someone.
+
+Night before last, I think there might have been a bear in the woods where I was camping. Scary stuff! I remain uneaten, whether or not it was a bear. The riding has been pretty direct since, and through some incredibly beautiful landscapes. It's nice to be hostelling now that i'm in Plovdiv, and to be spending a day off the bike. Nice also to meet some other travellers. Tonight we're going to try to find some traditional Bulgarian folk music. I'm feeling close to the end now, 232 miles as the cuckoo flies to Istanbul.
+
 #### Part 8: Kosovo and Macedonia
-Days 51 to the present, on the road.
+Days 51 to 55 on the road.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
