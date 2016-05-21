@@ -18,6 +18,7 @@ Days 56 to the present, on the road.
 | 18/5 | Tarnovlag - near Maritsa | 61.70 | 10:45/20:45 | 5:54:48 | 10.4/36.9 |
 | 19/5 | - Plovdiv       | 61.93 | 09:30/17:30 | 4:58:55 | 12.4/24.9 |
 | 20/5 | *rest day in extremely old Plovdiv* |
+| 21/5 | *..and again* |
 
 **20/05/16**
 I am in Plovdiv, the oldest continually inhabited city in Europe. I'm liking Bulgaria so far. The people are strange: they appear unfriendly on the surface, but it seems actually they are just not so outgoing, and once you break through, they are lovely. This makes it easy to spend a while in each little town where you get chatting to someone.
