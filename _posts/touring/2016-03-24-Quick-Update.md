@@ -19,6 +19,12 @@ Days 56 to the present, on the road.
 | 19/5 | - Plovdiv       | 61.93 | 09:30/17:30 | 4:58:55 | 12.4/24.9 |
 | 20/5 | *rest day in extremely old Plovdiv* |
 | 21/5 | *..and again* |
+| 22/5 | - Haskovo       | 58.51 | 12:30/19:30 | 4:12:58 | 13.8/32.7 |
+
+**22/05/16**
+Tonight i'm Couchsurfing for the first time in a while, and host Tery has some really brilliant stories from travelling the world. Hell, she has had some incredible adventures in Bulgaria! I don't think i'll visit Brazil soon, but I certainly want to see more of this country.
+
+Plovdiv was a well-deserved break from moving, and absolutely fulfilled my cravings for hostelling and meeting travellers. I met too many cool people to list here, but notably I was very excited to meet another cycle tourist, the first I have seen since Italy I think. Julia has travelled a remarkably similar unconventional route through the Balkans, and comparing stories, we have had some very similar experiences and formed similar opinions. When it rains, it (gently) pours: I briefly met another other cycle tourist on the road today, a Korean called Pongo (i'm so sorry for probably butchering the spelling) who has recently left Istanbul heading west towards Madrid. He's riding a Surly similar to mine, and the first Surly I have seen in the wild on this tour. (If you don't get why either the cycle-tourist-sightings or the Surly-sightings are so exciting to me, don't worry about it. Ride across Europe for two months and it will make sense.)
 
 **20/05/16**
 I am in Plovdiv, the oldest continually inhabited city in Europe. I'm liking Bulgaria so far. The people are strange: they appear unfriendly on the surface, but it seems actually they are just not so outgoing, and once you break through, they are lovely. This makes it easy to spend a while in each little town where you get chatting to someone.
