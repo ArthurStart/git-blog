@@ -10,17 +10,11 @@ image:
 
 *In reverse chronological order, now split into parts for ease of use.*
 
-#### Part 9: Bulgaria
-Days 56 to the present, on the road.
+#### Part 10: Turkey
+Days 62 to the present, on the road.
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
-| 18/5 | Tarnovlag - near Maritsa | 61.70 | 10:45/20:45 | 5:54:48 | 10.4/36.9 |
-| 19/5 | - Plovdiv       | 61.93 | 09:30/17:30 | 4:58:55 | 12.4/24.9 |
-| 20/5 | *rest day in extremely old Plovdiv* |
-| 21/5 | *..and again* |
-| 22/5 | - Haskovo       | 58.51 | 12:30/19:30 | 4:12:58 | 13.8/32.7 |
-| 23/5 | - Edirne        | 68.44 | 11:30/19:00 | 5:22:41 | 12.7/34.1 |
 | 24/5 | *rest day in bustling Edirne* |
 
 **25/05/16**
@@ -30,6 +24,18 @@ Turkey seems exciting and outgoing, I think I will enjoy the trip to Istanbul. Y
 A long hot day's ride today. A complicated and arduous border crossing. For the first time, my bags got searched. Well almost, I showed the guy my shoes at least, then he decided to trust me. For the first time, i've had to pay for a visa. Cool guards though. I'm in Turkey, and i've followed signs to Istanbul - this is the final part of the journey, and I have very mixed feelings about the end being so clearly in sight.
 
 Tonight i'm with more great Couchsurfers. Çağrı and her hard-working medic student friends have done a great job of introducing me to Turkish culture (which is very different) and the language (which is very very different). They've shown me Turkish chai, a local drink called Raki which they were surprised that I like, and they've taught me how to eat poppy seeds. Like the language, it's going to be a while before I can eat poppy seeds like a local.
+
+#### Part 9: Bulgaria
+Days 56 to 61 on the road.
+
+| Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
+| --- | ---------------- | ----------  | ----------- | ----------------- |
+| 18/5 | Tarnovlag - near Maritsa | 61.70 | 10:45/20:45 | 5:54:48 | 10.4/36.9 |
+| 19/5 | - Plovdiv       | 61.93 | 09:30/17:30 | 4:58:55 | 12.4/24.9 |
+| 20/5 | *rest day in extremely old Plovdiv* |
+| 21/5 | *..and again* |
+| 22/5 | - Haskovo       | 58.51 | 12:30/19:30 | 4:12:58 | 13.8/32.7 |
+| 23/5 | - Edirne        | 68.44 | 11:30/19:00 | 5:22:41 | 12.7/34.1 |
 
 **22/05/16**
 Tonight i'm Couchsurfing for the first time in a while, and host Tery has some really brilliant stories from travelling the world. Hell, she has had some incredible adventures in Bulgaria! I don't think i'll visit Brazil soon, but I certainly want to see more of this country.
