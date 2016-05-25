@@ -16,6 +16,10 @@ Days 62 to the present, on the road.
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
 | 24/5 | *rest day in bustling Edirne* |
+| 25/5 | - near Pancarköy | 38.01 | 14:30/18:30 | 3:07:33 | 12.1/31.6 |
+
+**25/05/16 (again)**
+As I type, I can hear two calls to prayer just started from two directions. Turkey has not been what I expected - today's ride was hilly, through farmland that could have been British, under muggy grey clouds and with occasional rain, just slightly warmer than British weather. Nonetheless, i'm now counting down the kilometers on the signs to Istanbul. It's great to ride with somebody else again - Julia and I are doing this last stretch together, and it certainly makes wildcamping more pleasant!
 
 **25/05/16**
 Turkey seems exciting and outgoing, I think I will enjoy the trip to Istanbul. Yesterday I had a tour of the city with Ozan, one of Çağrı's medic friends. It's a bustling and cool place, though apparently a small city by Turkish standards. The famous mosque is absolutely incredible. I stayed last night with the Trakya Biciklet family, my first time with Warmshowers in Europe - Engin runs a fantastic bike shop and impromptu cyclist-hostel which really embodies the spirit of WS. Julia has caught up with me here, and we'll get moving towards Istanbul shortly. I'm eager to hit the road again today.
