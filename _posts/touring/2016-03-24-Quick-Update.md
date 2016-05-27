@@ -17,6 +17,14 @@ Days 62 to the present, on the road.
 | --- | ---------------- | ----------  | ----------- | ----------------- |
 | 24/5 | *rest day in bustling Edirne* |
 | 25/5 | - near Pancarköy | 38.01 | 14:30/18:30 | 3:07:33 | 12.1/31.6 |
+| 26/5 | - Silivri       | 70.19 | 09:30/19:30 | 5:49:10 | 12.0/35.8 |
+| 27/5 | - Istanbul      | 46.20 | 09:30/17:00 | 4:07:22 | 11.2/35.9 |
+| Tot  |                 | 154   |             |         |           |
+
+**27/05/16**
+4405km (2737 miles), 65 days on the road, nineteen countries, nine currencies, many languages, several variants of the Latin alphabet plus a few versions of Cyrillic, 4000 blurry pictures and a few decent ones.
+
+I'm in Istanbul! That's the European continent cycled. I fly back to find myself a home on Wednesday, before that I have a few boxes left to tick: i'll go see the Black Sea, and set foot in Asia, while i'm here. I set off solo, and ended up riding into Istanbul (a very memorable ride!) with four other cyclists. Cheers for the ride guys, and to everyone else I met and stayed with on the way!
 
 **25/05/16 (again)**
 As I type, I can hear two calls to prayer just started from two directions. Turkey has not been what I expected - today's ride was hilly, through farmland that could have been British, under muggy grey clouds and with occasional rain, just slightly warmer than British weather. Nonetheless, i'm now counting down the kilometers on the signs to Istanbul. It's great to ride with somebody else again - Julia and I are doing this last stretch together, and it certainly makes wildcamping more pleasant!
@@ -40,6 +48,7 @@ Days 56 to 61 on the road.
 | 21/5 | *..and again* |
 | 22/5 | - Haskovo       | 58.51 | 12:30/19:30 | 4:12:58 | 13.8/32.7 |
 | 23/5 | - Edirne        | 68.44 | 11:30/19:00 | 5:22:41 | 12.7/34.1 |
+| Tot  |                 | 251   |             |         |           |
 
 **22/05/16**
 Tonight i'm Couchsurfing for the first time in a while, and host Tery has some really brilliant stories from travelling the world. Hell, she has had some incredible adventures in Bulgaria! I don't think i'll visit Brazil soon, but I certainly want to see more of this country.
@@ -61,6 +70,7 @@ Days 51 to 55 on the road.
 | 15/5 | *rest day in Skopje, city of statues* |
 | 16/5 | - Kokino        | 43.43 | 12:30/19:30 | 5:01:59 |  8.6/26.3 |
 | 17/5 | - Tarnovlag     | 59.52 | 10:00/20:45* | 6:08:02 | 9.6/42.1 |
+| Tot  |                 | 214   |             |         |           |
 
 *\* I crossed into a new time zone! Duuuude! Both times are local times, but I lost an hour.
 
@@ -91,6 +101,7 @@ Days 43 to 50 on the road.
 | 10/5 | - nearish Priboj | 71.42 | 10:00/19:45 | 6:41:32 | 10.6/33.3 |
 | 11/5 | - Vrnjica       | 49.31 | 10:00/19:00 | 5:52:15 |  8.3/35.3 |
 | 12/5 | - Eleskovice    | 61.01 | 10:15/19:45 | 6:30:03 |  9.3/35.8 |
+| Tot  |                 | 363   |             |         |           |
 
 *\* Accidentally reset bike computer before I had a chance to note down the stats. Oops.*
 
@@ -130,6 +141,7 @@ Days 36 to 42 on the road.
 | 02/5 | - Zagreb        | 53.33 | 11:00/18:30 | 4:58:40 | 10.7/27.5 |
 | 03/5 | - Brinyani      | 58.52 | 12:00/19:00 | 4:56:26 | 11.8/31.8 |
 | 04/5 | - Slavonski Brod | 86.69 | 09:30/17:30* | 7:00:57 | 12.3/29.9 |
+| Tot  |                 | 312   |             |         |           |
 
 *\* N.B. Computer stats include some time/distance spent going into town and dawdling about. 20:30 or so before I got to the night's final destination.*
 
@@ -163,6 +175,7 @@ Days 30-35 on the road.
 | 25/4 | - Venice (Mestre) | 28.05 | 14:00/17:30 | 2:45:25 | 10.1/17.5 |
 | 26/4 | - near Eraclea  | 30.74 | 15:30/18:45 | 2:40:17 | 11.5/19.5 |
 | 27/4 | - near Rožna Dolina | 68.66 | 09:30/19:00 | 5:54:30 | 11.6/21.2 |
+| Tot  |                 | 304   |             |         |           |
 
 **28/04/16**
 Been riding hard for a few days, not managed to update or upload this. My honest review of Italy will wait for another day, but i'll say now that of all the countries i've visited, Italy is the first where I can say that I wouldn't be disappointed never to return. This does a terrible disservice to the really wonderful people who hosted me, and some others I met along the way, and for them I am truly grateful. I'm also able to tuck Venice away as an experience that i'll never forget. All in all, certainly worth it. On a more positive note, my last day in which I dashed for the border was largely pleasant and smooth cycling, until Italy had a last laugh by throwing a little thunderstorm my way. Arrivederci Italy, perhaps.
@@ -196,6 +209,7 @@ Days 23-29 on the road.
 | 19/4 | - Dalaas               | 47.42 | 10:30/19:30 | 4:17:53 | 11.0/26.8 |
 | 20/4 | - near Ried            | 46.60 | 10:30/18:30 | 4:55:50 |  9.4/40.7 |
 | 21/4 | - Laas                 | 52.29 | 10:30/19:00 | 5:42:15 |  9.1/33.7 |
+| Tot  |                        | 290   |             |         |           |
 
 **21/04/16**
 Local campsite wanted €17 for a pitch, and so I am sitting high above a wide valley, the sun just set over the mountains from whence I came today, watching the bustle in the valley and listening to the bells around the necks of the goats on the hillside below me. Today in numbers: border crossings - 3; countries - 3; languages that I don't know - 3; pizzas - 0; altitude reached - 1530m; coffees - just one. Italy has been mixed so far. At first I considered heading straight back to Austria, but i'll give the place a chance. I haven't really scratched the surface of the culture, but in my defense that's tricky when everywhere is shut and everyone is presumably asleep.
@@ -233,6 +247,7 @@ Days 14-22 on the road. Blog post in the works.
 | 12/4 | - near Strasbourg      | 53.24 | 12:00/19:30 | 4:47:13 | 11.1/21.1 |
 | 13/4 | - near Neuf-Brisach    | 50**  | 09:30/20:15 | ??????? | ????/???? |
 | 14/4 | - Basel                | 37.14 | 09:00/15:00 | 3:36:42 | 10.2/20.1 |
+|      |                        | 339   |             |         |           |
 
 *\* The bike computer stopped recording a couple of times today. I'm not sure how much it missed, but the mileage is about right, so can't be too much.*
 
@@ -275,6 +290,7 @@ Days 8-13 on the road. [Blog post here.]({% post_url 2016-04-06-The-Netherlands-
 | 03/4 | - Leuven               | 19.59 | 11:30/14:00 | 1:44:39 | 11.2/19.0 |
 | 04/4 | - Maastricht           | 50.42 | 11:00/18:00 | 4:14:16 | 11.8/22.5 |
 | 05/4 | - Drielandenpunt       | 20.31 | 17:00/20:00 | 2:04:41 |  9.7/27.4 |
+| Tot  |                        | 265   |             |         |           |
 
 **05/04/16**
 I'm camped in the Netherlands, about 300 meters from Germany and 400 from Belgium. Yesterday I had a beautiful quick ride (dat average) to Maastricht, where I had a brilliant time seeing the city, meeting locals, and visiting the weirdest and possibly best beer bar i've ever been to. Today completed the city tour, and featured a quick trip to a cool blues bar full of character. Thanks to Aleks for the tour and for letting me crash, first Couchsurfing experience definitely a positive one. Got a few miles in before dark, but I found some hills in the Netherlands, and had some slight bike-issues (nothing significant I hope) so it was slow going. Off to join the Rhine next!
@@ -303,6 +319,7 @@ Days 1-7 on the road. [Blog post here.]({% post_url 2016-03-30-Aberdeen-to-Amste
 | 28/3 | Berwick - Chathill     | 43.64 | 12:00/19:00 | 4:20:18 | 10.0/24.1 |
 | 29/3 | - Newcastle            | 47.33 | 12:00/20:00 | 4:36:21 | 10.2/29.7 |
 | 30/3 | - Ferry terminal       |  9.72 | 13:45/15:00 | 1:03:53 |  9.1/22.5 |
+| Tot  |                        | 245   |             |         |           |
 
 **30/03/16 (again again)**
 You'd have thought that the ferry live-musician would know how to tune a guitar, huh? So far the Orkney ferry is winning.
