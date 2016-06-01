@@ -27,7 +27,7 @@ Days 62 to the present, on the road.
 | Tot  |                 | 209   |             |         |           |
 
 **01/06/16**
-So I was meant to be riding home today, but due to a BA cancellation I am still in Istanbul. To be honest, I think I need this 'free' day: i've been burning the candle at both ends for a while, filling every hour with more adventures, and getting behind on both the essential admin parts of touring and on sleep.
+So I was meant to be riding [edit - riding a plane, I mean] home today, but due to a BA cancellation I am still in Istanbul. To be honest, I think I need this 'free' day: i've been burning the candle at both ends for a while, filling every hour with more adventures, and getting behind on both the essential admin parts of touring and on sleep.
 
 Istanbul has been great fun, and i'm starting to feel like i've done the tour. I'm apprehensive about flying with the bike, but another day to prepare will not go amiss. Here's another Facebook status copy-paste:
 
