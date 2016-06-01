@@ -19,7 +19,27 @@ Days 62 to the present, on the road.
 | 25/5 | - near Pancarköy | 38.01 | 14:30/18:30 | 3:07:33 | 12.1/31.6 |
 | 26/5 | - Silivri       | 70.19 | 09:30/19:30 | 5:49:10 | 12.0/35.8 |
 | 27/5 | - Istanbul      | 46.20 | 09:30/17:00 | 4:07:22 | 11.2/35.9 |
-| Tot  |                 | 154   |             |         |           |
+| 28/5 | *exploring Istanbul, visiting mosques* |
+| 29/5 | *exploring Istanbul, touring bike shops* |
+| 30/5 | - Riva          | 27.12 | 12:00/17:00 | 3:00:11 |  9.0/34.9 |
+| 31/5 | - Istanbul      | 27.98 | 10:00/16:00 | 3:04:38 |  9.0/38.5 |
+| 01/6 | *unexpected day of rest in Istanbul* |
+| Tot  |                 | 209   |             |         |           |
+
+**01/06/16**
+So I was meant to be riding home today, but due to a BA cancellation I am still in Istanbul. To be honest, I think I need this 'free' day: i've been burning the candle at both ends for a while, filling every hour with more adventures, and getting behind on both the essential admin parts of touring and on sleep.
+
+Istanbul has been great fun, and i'm starting to feel like i've done the tour. I'm apprehensive about flying with the bike, but another day to prepare will not go amiss. Here's another Facebook status copy-paste:
+
+"When I set off, two and a bit months ago, I hoped to get to Budapest. More aspiration than target, I thought it would be really cool to go further, to the Black Sea, if I could. Look at a map of Eurasia - it's a nice big milestone!
+
+Well, I ended up extending the tour by two weeks, forgetting about Budapest, and going through the Balkans to Istanbul instead. Best decision I could have made. Istanbul is unlike any city i've been to before. It's been Constantinople and Byzantium. It's a transcontinental city: i've reached the end of Europe. It's the largest European city and has a population about three times that of Scotland. I don't have words to get across what it feels like - most cities i've found can be described in terms of what parts of London they feel like, but not Istanbul.
+
+Anyway, I didn't forget my original 'stretch goal' of the Black Sea, overshadowed as it was by Istanbul. On Monday, Christian and I loaded up our bikes, took the ferry to Asia (!!!), and rode up to see the Black Sea. We cycled here from Britain... That's a nice little ride. We pushed our bikes onto a sandy little beach overlooking the sea, on the other side of which is Russia, and stood knee deep in it until Christian finally flopped in with a grimace (so of course I had to too). That box ticked, we lazed about and had some well deserved beers, before finding ourselves a pleasant spot to camp.
+
+I made an effort not to tell people of my idea to reach the Black Sea as I went, because I didn't think I could realistically do it. Well, allowing for an extension, i've managed not only to reach the Black Sea, but to reach it from Asia. Triumphant Facebook status achieved."
+
+So what's next? Well tomorrow I will hopefully get the bike intact to Heathrow, BA allowing. Then i'll ride to Oxford, either arriving after dark, or perhaps with a wildcamp on the way. There, i'll probably find a hostel, and set about finding a place to live, for take-two on 'real life'. Wish me luck!
 
 **27/05/16**
 4405km (2737 miles), 65 days on the road, nineteen countries, nine currencies, many languages, several variants of the Latin alphabet plus a few versions of Cyrillic, 4000 blurry pictures and a few decent ones.
