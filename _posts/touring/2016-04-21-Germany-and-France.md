@@ -5,8 +5,8 @@ date:   2016-04-21 22:59:25 +0000
 categories: touring_2016
 comments: True
 image:
-  teaser: teaser_IMG_7918.JPG
-  feature: IMG_7949_feature.JPG
+  teaser: teaser_IMG_8441.JPG
+  feature: feature_IMG_8046.JPG
 ---
 
 ![](/images/IMG_7955.JPG)
