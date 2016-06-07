@@ -355,4 +355,4 @@ The next day, ready to go. I had that beer with my food last night, it's a lefto
 
 ![](/images/IMG_7954.JPG)
 
-So that's the first two European countries down. If you've got this far, thanks for reading. The road goes ever on and stuff, so i'm going to get some sleep before leaving the Rhine and setting off into Switzerland tomorrow. Goodnight!
+So that's the first two European countries down. If you've got this far, thanks for reading. The road goes ever on and stuff, so i'm going to get some sleep before leaving the Rhine and setting off into Germany tomorrow. Goodnight!
