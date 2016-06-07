@@ -254,7 +254,7 @@ Basel is a cool and exciting place, i'm pleased to have got a little tour. I saw
 I'm in Switzerland! Awesome Couchsurfers made fondue - very tasty. Basel seems great. But where to go next?
 
 #### Part 3: Germany and France
-Days 14-22 on the road. Blog post in the works.
+Days 14-22 on the road. [Blog post here.]({% post_url 2016-04-21-Germany-and-France %})
 
 | Day | | Distance (miles) | Start/Stop | Time Moving | Av./Max Speed (mph) |
 | --- | ---------------- | ----------  | ----------- | ----------------- |
