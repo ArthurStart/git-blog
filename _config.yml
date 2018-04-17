@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Special Low Frequency Version
-description: 
+description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -16,7 +16,7 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
 
 
