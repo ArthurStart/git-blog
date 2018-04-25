@@ -11,6 +11,14 @@ image:
 
 *By country, in reverse chronological order.*
 
+#### Part 5: Lithuania
+
+| Day | Date | | Distance (km) |
+| --- | ---------------- | ----------  | ----------- |
+| 33 | Weds 25th April | nr. Galwiecie (PL) - Kaunas | 152 |
+| 34 | Thurs 26th April |  | 0 |
+
+
 #### Part 4: Poland
 My first new country of the trip!
 
@@ -19,6 +27,15 @@ My first new country of the trip!
 | 23 | Sun 15th April | Görlitz (DE) - nr. Czerna | 56 |
 | 24 | Mon 16th April | - Leszno | 132 |
 | 25 | Tues 17th April | town tour/bowling day | 0 |
+| 26 | Weds 18th April | - Poznan | 89 |
+| 27 | Thurs 19th April | - nr. Jeziora | 89 |
+| 28 | Fri 20th April | - nr. Torun | 107 |
+| 29 | Sat 21st April | - Rypin | 51 |
+| 30 | Sun 22nd April | - nr. Nidzica | 94 |
+| 31 | Mon 23rd April | - nr. Ketrzyn | 129 |
+| 32 | Tues 24th April | - nr. Galwiecie | 115 |
+| Tot  | | | 862   |
+| Trip Tot  | | | 2145   |
 
 
 #### Part 3: Germany
@@ -39,6 +56,7 @@ Familiar West, to the foreign East.
 | 21 | Fri 13th April | - Bautzen | 85 |
 | 22 | Sat 14th April | - Görlitz | 44 |
 | Tot  | | | 685   |
+| Trip Tot  | | | 1283   |
 
 
 #### Part 2: The Netherlands
@@ -55,6 +73,7 @@ Cycling utopia. Culturally easygoing. A bit flat.
 | 9 | Sun 1st April | - nr. Haaksbergen | 50 |
 | 10 | Mon 2nd April | - Münster (DE) | 78 |
 | Tot  | | | 363   |
+| Trip Tot  | | | 598   |
 
 
 #### Part 1: England
