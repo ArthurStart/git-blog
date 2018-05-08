@@ -11,12 +11,42 @@ image:
 
 *By country, in reverse chronological order.*
 
+#### Part 8: Russia
+
+| Day | Date | | Distance (km) |
+| --- | ---------------- | ----------  | ----------- |
+| 44 | Sun 6th May | Kingisepp - Gostilitsy | 94 |
+| 45 | Mon 7th May | - Saint Petersburg | 71 |
+| 46 | Tues 8th May | City day | 0 |
+
+
+#### Part 7: Estonia
+
+| Day | Date | | Distance (km) |
+| --- | ---------------- | ----------  | ----------- |
+| 41 | Thurs 3rd May | Valka (LV) - Tartu | 119 |
+| 42 | Fri 4th May | - Lake Pepsin | 108 |
+| 43 | Sat 5th May | - Kingisepp (RU) | 132 |
+
+
+#### Part 6: Latvia
+
+| Day | Date | | Distance (km) |
+| --- | ---------------- | ----------  | ----------- |
+| 36 | Sat 28th April | Panevėžys (LT) - nr. Zvirgzde | 120 |
+| 37 | Sun 29th April | - Riga | 48 |
+| 38 | Mon 30th April | - Kunterbunti | 129 |
+| 39 | Tues 1st May | Planting the first new seeds | 0 |
+| 40 | Weds 2nd May | - Valka | 95 |
+
+
 #### Part 5: Lithuania
 
 | Day | Date | | Distance (km) |
 | --- | ---------------- | ----------  | ----------- |
 | 33 | Weds 25th April | nr. Galwiecie (PL) - Kaunas | 152 |
-| 34 | Thurs 26th April |  | 0 |
+| 34 | Thurs 26th April | City day | 0 |
+| 35 | Fri 27th April | - nr. Panevėžys | 130 |
 
 
 #### Part 4: Poland
