@@ -27,6 +27,8 @@ image:
 | 41 | Thurs 3rd May | Valka (LV) - Tartu | 119 |
 | 42 | Fri 4th May | - Lake Pepsin | 108 |
 | 43 | Sat 5th May | - Kingisepp (RU) | 132 |
+| Tot  | | | 359   |
+| Trip Tot  | | | 3178   |
 
 
 #### Part 6: Latvia
@@ -37,6 +39,8 @@ image:
 | 38 | Mon 30th April | - Kunterbunti | 129 |
 | 39 | Tues 1st May | Planting the first new seeds | 0 |
 | 40 | Weds 2nd May | - Valka | 95 |
+| Tot  | | | 272   |
+| Trip Tot  | | | 2819   |
 
 
 #### Part 5: Lithuania
@@ -47,6 +51,8 @@ image:
 | 34 | Thurs 26th April | City day | 0 |
 | 35 | Fri 27th April | - nr. Panevėžys | 130 |
 | 36 | Sat 28th April | - nr. Zvirgzde (LV) | 120 |
+| Tot  | | | 402   |
+| Trip Tot  | | | 2547   |
 
 
 #### Part 4: Poland
