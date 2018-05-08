@@ -6,7 +6,7 @@ categories: touring_2018
 comments: True
 image:
   teaser: 2018/IMG_1459_teaser.JPG
-  feature: 2018/Screenshot_20180426-012527.png
+  feature: 2018/Screenshot_20180508-234404.png
 ---
 
 *By country, in reverse chronological order.*
