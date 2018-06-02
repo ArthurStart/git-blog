@@ -6,10 +6,26 @@ categories: touring_2018
 comments: True
 image:
   teaser: 2018/IMG_1459_teaser.JPG
-  feature: 2018/Screenshot_20180508-234404.png
+  feature: 2018/Screenshot_20180602-171913.png
 ---
 
 *By country, in reverse chronological order.*
+
+
+#### Part 9: Norway
+
+| Day | Date | | Distance (km) |
+| --- | ---------------- | ----------  | ----------- |
+| 63 | Fri 25th May | nr. Kirkenes - Neiden | 27 |
+| 64 | Sat 26th May | - nr. Bugøynes | 41 |
+| 65 | Sun 27th May | - Tana Bru | 105 |
+| 66 | Mon 28th May | - Ifjord | 92 |
+| 67 | Tue 29th May | - nr. Børselv | 89 |
+| 68 | Wed 30th May | - Indre Billefjord | 76 |
+| 69 | Thu 31st May | - Southern Magerøya | 112 |
+| 70 | Fri 1st June | - Gjesvær | 50 |
+| 71 | Sat 2nd June | rest day | 0 |
+
 
 #### Part 8: Russia
 
@@ -18,6 +34,24 @@ image:
 | 44 | Sun 6th May | Kingisepp - Gostilitsy | 94 |
 | 45 | Mon 7th May | - Saint Petersburg | 71 |
 | 46 | Tues 8th May | City day | 0 |
+| 47 | Wed 9th May | Camping at Ladoga Lake | 0 |
+| 48 | Thu 10th May | Saint Petersburg - nr. Shlisselburg | 56 |
+| 49 | Fri 11th May | - nr. Pasha | 141 |
+| 50 | Sat 12th May | - nr. Kovera | 120 |
+| 51 | Sun 13th May | - Petrozavodsk | 127 |
+| 52 | Mon 14th May | - nr. Luchevoye-1 | 43 |
+| 53 | Tue 15th May | - Karhumäki | 139 |
+| 54 | Wed 16th May | - Segezha | 125 |
+| 55 | Thu 17th May | - nr. Olonga river | 145 |
+| 56 | Fri 18th May | - nr. Pervoye Nogtevo | 142 |
+| 57 | Sat 19th May | - nr. Polyarnyy Krug! | 93 |
+| 58 | Sun 20th May | - Polarnie Zori | 117 |
+| 59 | Mon 21st May | - nr. Olenegorsk | 119 |
+| 60 | Tue 22nd May | - Murmansk | 118 |
+| 61 | Wed 23rd May | - Titovka | 111 |
+| 62 | Thu 24th May | - nr. Kirkenes (N) | 142 |
+| Tot  | | | 1903   |
+| Trip Tot  | | | 5081   |
 
 
 #### Part 7: Estonia
