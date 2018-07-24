@@ -25,6 +25,59 @@ image:
 | 69 | Thu 31st May | - Southern Magerøya | 112 |
 | 70 | Fri 1st June | - Gjesvær | 50 |
 | 71 | Sat 2nd June | rest day | 0 |
+| 72 | Sun 3rd June | rest day | 0 |
+| 73 | Mon 4th June | - nr. Nordkapp! | 55 |
+| 74 | Tue 5th June | - Southern Magerøya | 43 |
+| 75 | Wed 6th June | - Sortvikelva | 67 |
+| 76 | Thu 7th June | - Repparfjordelva | 71 |
+| 77 | Fri 8th June | - Alta | 73 |
+| 78 | Sat 9th June |  | 0 |
+| 79 | Sun 10th June |  | 0 |
+
+| 80 | Mon 11th June | - Gjesvær (hitching) |  |
+| 81 | Tue 12th June |  |  |
+| 82 | Wed 13th June |  |  |
+| 83 | Thu 14th June | - Thomassenhytte |  |
+| 84 | Fri 15th June | - Gjesvær |  |
+| 85 | Sat 16th June | - Honningsvåg |  |
+| 86 | Sun 17th June | - Alta (hitching) |  |
+
+| 87 | Mon 18th June | - Sørstraumen | 119 |
+| 88 | Tue 19th June | - Lyngenfjord | 96 |
+| 89 | Wed 20th June | - Tromsø | 73 |
+| 90 | Thu 21st June |  | 6 |
+| 91 | Fri 22nd June |  | 10 |
+| 92 | Sat 23rd June |  | 8 |
+| 93 | Sun 24th June | - Kvaløya | 16 |
+| 94 | Mon 25th June | - Karlsøya! | 52 |
+| 95 | Tue 26th June | festival |  |
+| 96 | Wed 27th June |  |  |
+| 97 | Thu 28th June |  |  |
+| 98 | Fri 29th June |  |  |
+| 99 | Sat 30th June |  |  |
+| 100 | Sun 1st July |  |  |
+| 101 | Mon 2nd July |  |  |
+| 102 | Tue 3rd July |  |  |
+| 103 | Wed 4th July |  |  |
+| 104 | Thu 5th July |  |  |
+| 105 | Fri 6th July | Karlsøya - Tromsø | 60 |
+| 106 | Sat 7th July |  |  |
+| 107 | Sun 8th July |  |  |
+| 108 | Mon 9th July | Tromsø - Ulvik flight |  |
+| 109 | Tue 10th July |  |  |
+| 110 | Wed 11th July |  |  |
+| 111 | Thu 12th July |  |  |
+| 112 | Fri 13th July |  |  |
+| 113 | Sat 14th July | Ulvik - Bergen bus/train |  |
+| 114 | Sun 15th July | Bergen - Tromsø flight |  |
+| 115 | Mon 16th July | - Brensholmen | 73 |
+| 116 | Tue 17th July | - Lavollsfjorden | 81 |
+| 117 | Wed 18th July | - Bleik | 43 |
+| 118 | Thu 19th July | - Forfjorden | 68 |
+| 119 | Fri 20th July | - Melbu | 72 |
+| 120 | Sat 21st July | - Grunnfør cyclists' shelter | 22 |
+| 121 | Sun 22nd July | - Rorvika beach | 60 |
+| 122 | Mon 23rd July | - Finnbyen | 89 |
 
 
 #### Part 8: Russia
