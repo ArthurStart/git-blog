@@ -11,6 +11,13 @@ image:
 
 *By country, in reverse chronological order.*
 
+#### Part 10: Sweden
+
+| Day | Date | | Distance (km) |
+| --- | ---------------- | ----------  | ----------- |
+| 158 | Tue 28th August | - Duved | 62 |
+
+
 
 #### Part 9: Norway
 
@@ -33,7 +40,6 @@ image:
 | 77 | Fri 8th June | - Alta | 73 |
 | 78 | Sat 9th June |  | 0 |
 | 79 | Sun 10th June |  | 0 |
-
 | 80 | Mon 11th June | - Gjesvær (hitching) |  |
 | 81 | Tue 12th June |  |  |
 | 82 | Wed 13th June |  |  |
@@ -41,7 +47,6 @@ image:
 | 84 | Fri 15th June | - Gjesvær |  |
 | 85 | Sat 16th June | - Honningsvåg |  |
 | 86 | Sun 17th June | - Alta (hitching) |  |
-
 | 87 | Mon 18th June | - Sørstraumen | 119 |
 | 88 | Tue 19th June | - Lyngenfjord | 96 |
 | 89 | Wed 20th June | - Tromsø | 73 |
@@ -78,6 +83,43 @@ image:
 | 120 | Sat 21st July | - Grunnfør cyclists' shelter | 22 |
 | 121 | Sun 22nd July | - Rorvika beach | 60 |
 | 122 | Mon 23rd July | - Finnbyen | 89 |
+| 123 | Tue 24th July | - Bodø | 27 |
+| 124 | Wed 25th July | fishing day | 0 |
+| 125 | Thu 26th July | - Kretsskjærvika | 61 |
+| 126 | Fri 27th July | - Ågvatnet | 89 |
+| 127 | Sat 28th July | - Grønsvik | 49 |
+| 128 | Sun 29th July | - Leirfjord | 28 |
+| 129 | Mon 30th July | - Nes, Vega | 59 |
+| 130 | Tue 31st July | sea kayaking day |  |
+| 131 | Wed 1st August | walking day |  |
+| 132 | Thu 2nd August | rowboating day |  |
+| 133 | Fri 3rd August | - Vennesund | 69 |
+| 134 | Sat 4th August | - Hofles | 83 |
+| 135 | Sun 5th August | - Namsos | 55 |
+| 136 | Mon 6th August | brake fixing day |  |
+| 137 | Tue 7th August | Reppkleiv pothole | 103 |
+| 138 | Wed 8th August | - Stokkøya | 71 |
+| 139 | Thu 9th August | - Rein | 95 |
+| 140 | Fri 10th August | rest/boatbuilding day |  |
+| 141 | Sat 11th August | - Trondheim | 34 |
+| 142 | Sun 12th August | chill day |  |
+| 143 | Mon 13th August | - Oslo (hitching) |  |
+| 144 | Tue 14th August | Helvete/Blitz day |  |
+| 145 | Wed 15th August | Midgardsblot! |  |
+| 146 | Thu 16th August |  |  |
+| 147 | Fri 17th August |  |  |
+| 148 | Sat 18th August |  |  |
+| 149 | Sun 19th August |  |  |
+| 150 | Mon 20th August | - Oslo (hitching) |  |
+| 151 | Tue 21st August | coffee/beer day |  |
+| 152 | Wed 22nd August | - Tretten (hitching) |  |
+| 153 | Thu 23rd August | - Trondheim (hitching) |  |
+| 154 | Fri 24th August | chill |  |
+| 155 | Sat 25th August | chill |  |
+| 156 | Sun 26th August | - Hell | 30 |
+| 157 | Mon 27th August | - Tevla | 66 |
+| Tot  | | | 2768   |
+| Trip Tot  | | | 7849 |
 
 
 #### Part 8: Russia
