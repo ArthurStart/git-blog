@@ -3,7 +3,7 @@ layout: archive
 title:  "Touring Archive"
 categories: meta
 image:
-  teaser: 2018/IMG_2050_teaser.JPG
+  teaser: 2018/IMG_2050_teaser2.JPG
 excerpt_separator: ""
 ---
 
