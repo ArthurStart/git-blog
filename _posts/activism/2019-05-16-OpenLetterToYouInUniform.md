@@ -5,7 +5,7 @@ date:   2019-05-16 09:59:25 +0000
 categories: activism
 comments: True
 image:
-  teaser: activism/police_teaser.jpg
+  teaser: activism/police_teaser.JPG
   feature: activism/content/IMG_4884.JPG
 ---
 
