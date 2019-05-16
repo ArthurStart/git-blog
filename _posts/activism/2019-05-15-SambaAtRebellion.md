@@ -5,7 +5,7 @@ date:   2019-05-16 09:59:25 +0000
 categories: activism
 comments: True
 image:
-  teaser: activism/XR_Samba_teaser2.jpg
+  teaser: activism/XR_Samba_teaser_2.jpg
   feature: activism/XR_Samba_1.jpg
 ---
 
