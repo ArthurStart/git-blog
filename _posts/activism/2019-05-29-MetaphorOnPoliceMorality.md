@@ -1,0 +1,24 @@
+---
+layout: article
+title:  "A Metaphor on Police Morality"
+date:   2019-05-29 09:59:25 +0000
+categories: activism
+comments: True
+image:
+  teaser: activism/morality_teaser.JPG
+  feature: activism/content/IMG_5079.JPG
+---
+
+*I wrote this piece on May 3rd (shortly after returning to Scotland from the April rebellion) in response to some criticisms of my [open letter to the police](../OpenLetterToYouInUniform/), along the lines of "they're just doing their jobs". It was also an exercise in sticking to a self-imposed word limit, something I am not good at.*
+
+We are on a ship, travelling through space. The ship was built long before we were born, and it is our home for life. We will never leave this ship. Passengers have many roles. On the bridge are the managers: as the ship does not do much navigation, they ensure that everybody on the ship is taken care of, deal with resource management issues, and resolve disputes between passengers. The engineers have studied the workings of the ship for generations. They fix the life support systems and solar panels, and try to ensure that big failures never occur. There are many other passengers - some of them work hard and can barely buy enough food. Some have big apartments and rarely work, often because their ancestors were wealthy. Most passengers are nice people.
+
+Now for some time, the engineers have been saying that we are using our food and fuel resources too fast. The solar panels cannot replace the fuel fast enough. Soon people might start to starve, and various complicated, boring maintenance issues will arise. The engineers are worried about this. The giant, organic regeneration tanks do not seem to be healthy - lots of essential animals are dying off. Too much waste is being produced, and the tanks cannot recycle it fast enough - they were simply never designed to do so. The straining tanks are releasing gases which will perhaps damage the structure of the ship, and may also suddenly and unpredictably wreck the delicate organic balance of the tanks. Passengers generally prefer not to think about the tanks, but if the tanks were to fail, every passenger would die.
+
+The engineers have proposed a lot of solutions, but they all require us eat fewer chocolate bars, and for the wealthy passengers to reduce the brightness of their TVs (which they are very reluctant to do). Admittedly, many passengers in the chocolate and TV industries, rich and poor, would lose their jobs. However the engineers have calculated that there is enough food and fuel to last for all, forever, if we all are a bit more sensible, so this is merely another resource management problem, and that is the job of the managers. “It is this system of jobs and money, which the managers created, that has led to the unwise consumption of resources anyway”, many passengers say, “so isn’t it time we try something new?” Whether or not they are right, most people agree with the engineers, that nobody will have a job when everybody is dead. The managers still live comfortably in the nicer parts of the ship, and they are saying things like “there’s plenty of time, let our children deal with it”, and “but the engineers don’t really know the ship so well - we are doing enough”.
+
+The managers hire policemen, to break up fights amongst passengers, and to make sure passengers are all behaving in accordance with the policies they make, and are not stealing food. Lately, some engineers and conscientious passengers have been messing with the doors in the managers’ quarters, holding big placards calling on the managers to fix the ship. This has been very bad for the managers, as all the passengers are now seeing them ignoring the engineers, putting the entire ship at great peril! The managers have responded by getting the police to clear away these demonstrators. They have tried to calm the passengers, saying “yes, okay there is a ship emergency”, and yet they are still building a third runway at Heathrow.
+
+The managers have clearly failed the passengers and the ship. In order to do their jobs, the passengers as a group allow the managers to have extra power, enforced by the police, over the passengers. However, when the managers are not doing their jobs, they no longer have any valid right to this extra power. When the managers are ignoring the warnings of the engineers, they are not doing their jobs.
+
+When they ask the police to clear away the protestors, it puts the police in an interesting situation. With the managers’ special power comes a responsibility to use it only to do their jobs for the passengers. With the police’ job of enforcing this power, comes the responsibility to make sure that the managers are doing their jobs. If the police forget this responsibility, the ship will be destroyed by the inaction of the managers.
