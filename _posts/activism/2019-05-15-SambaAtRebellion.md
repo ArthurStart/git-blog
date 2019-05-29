@@ -2,7 +2,9 @@
 layout: article
 title:  "Samba at the April Rebellion"
 date:   2019-05-16 09:59:25 +0000
-categories: activism
+categories:
+- activism
+- music
 comments: True
 image:
   teaser: activism/XR_Samba_teaser_2.jpg
