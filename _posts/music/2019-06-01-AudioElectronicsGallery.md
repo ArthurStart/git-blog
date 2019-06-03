@@ -5,8 +5,8 @@ date:   2019-06-01 08:59:25 +0000
 categories: music
 comments: True
 image:
-  teaser: music/FromWithinSpec_teaser.png
-  feature: music/Spectrogram_310319.png
+  teaser: music/IMG_2861_teaser.JPG
+  feature: music/44414209_189074462040425_7027008083750325381_n.jpg
 ---
 
 #### Valve Amplifiers
@@ -18,7 +18,7 @@ A high gain, ~20 W guitar amplifier head designed for versatility and excellent 
 ![Chasm #1](/images/music/Chasm1_EDITED.png)
 *Chasm #1*
 
-As a teenager with a need for tone but no budget, I treated my A Level design project as an excuse to build this machine. While my teacher was more interested in the funny-shaped, laminated plywood box, I spent months tinkering and tweaking the circuit, honing the sounds it could produce. At university, this was my primary amp: light enough to carry, loud enough to play with a drummer, and tonally rich and diverse, this project was a huge success, and I learn a massive amount from the build.
+As a teenager with a need for tone but no budget, I treated my A Level design project as an excuse to build this machine. While my teacher was more interested in the funny-shaped, laminated plywood box, I spent months tinkering and tweaking the circuit, honing the sounds it could produce. At university, this was my primary amp: light enough to carry, loud enough to play with a drummer, and tonally rich and diverse, this project was a huge success, and I learnt a massive amount from the build.
 
 ![Chasm #1](/images/music/Chasm1_chassis.JPG)
 *Chasm #1 Chassis*
@@ -84,6 +84,11 @@ The image above shows, clockwise from top-left:
 ![TM_TS_gutshots](/images/music/IMG_3023.JPG)
 *The guts of my Tubescreamer and Tone Machine*
 
-My current pedalboard, as of mid-2019, has three of my own builds: a bass overdrive clone, a Tone Machine octave fuzz clone, and a modified super heavy doom fuzz. I also have a tuner and a delay on the board.
+![pedalboard](/images/music/IMG_5868.JPG)
+*My pedalboard, mid 2019*
+
+My current pedalboard, as of mid-2019, has three of my own builds: a bass overdrive clone, a Tone Machine octave fuzz clone, and a modified super heavy doom fuzz. Yes, it's messy. It's been 'reconfigured' far too many times since I last tidied it up. I also have a tuner and a delay on the board.
 
 #### Other
+
+More to be added, as I find pictures and builds.
