@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "2018, Part 1: To Russia by Bicycle (in video)"
+title:  "In Video, Part 1: To Russia by Bicycle"
 date:   2019-06-12 11:26:25 +0000
 categories: touring_2018
 comments: True

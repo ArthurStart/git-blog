@@ -1,13 +1,15 @@
 ---
 layout: article
-title:  "GB NL DE"
+title:  "In Photos, Part 1: Britain, The Netherlands, and Germany"
 date:   2019-02-07 17:26:25 +0000
 categories: touring_2018
 comments: True
 image:
-  teaser: teaser_IMG_7918.JPG
+  teaser: 2018/IMG_1049-01_teaser.jpeg
   feature: 2018/post1/IMG_2368-01.jpeg
 ---
+
+Words will follow when I get around to it, perhaps.
 
 ![](/images/2018/post1/IMG_0987-01-02.jpeg)
 
