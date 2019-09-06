@@ -11,7 +11,7 @@ image:
 ---
 
 
-*I wrote this as a Facebook post on ...., just after the Summer Uprising in which XR occupied five cities for a week. Distributing ourselves around the UK was counter to a core part of XR's strategy: to focus on the centre of political power. It felt hastily planned compared to April, and it seemed more an exercise in maintaining our momentum than a step towards a sustainable world. The document linked, by Rupert Read, is well worth a read, and addresses some key tactical concerns of mine.*
+*I wrote this as a Facebook post on July 20th, just after the Summer Uprising in which XR occupied five cities for a week. Distributing ourselves around the UK was counter to a core part of XR's strategy: to focus on the centre of political power. It felt hastily planned compared to April, and it seemed more an exercise in maintaining our momentum than a step towards a sustainable world. [The document linked](http://rupertread.fastmail.co.uk/XR%20pamphlet%20%20%20%20%20%20Truth%20and%20its%20consequences.pdf?fbclid=IwAR08iHGp_cNnAivu6icAJne87dKUnu58uaaxU8UuTOrIgGXZqSD9iwITPe0), by Rupert Read, is well worth a read, and addresses some key tactical concerns of mine.*
 
 
 Dear Rebels,
