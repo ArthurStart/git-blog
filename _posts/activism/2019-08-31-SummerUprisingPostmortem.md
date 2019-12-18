@@ -6,7 +6,7 @@ categories:
 - activism
 comments: True
 image:
-  teaser: activism/summer_teaser.jpg
+  teaser: activism/summer_teaser.JPG
   feature: activism/IMG_6291.JPG
 ---
 

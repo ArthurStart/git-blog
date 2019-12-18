@@ -6,7 +6,7 @@ categories:
 - activism
 comments: True
 image:
-  teaser: activism/diary1_teaser.jpg
+  teaser: activism/diary1_teaser.JPG
   feature: activism/IMG_4216.JPG
 ---
 
