@@ -5,8 +5,8 @@ date:   2023-07-26 09:59:25 +0000
 categories: music
 comments: True
 image:
-  teaser: music/FromWithinSpec_teaser.png
-  feature: music/Spectrogram_310319.png
+  teaser: music/Gen25_26 2.JPG
+  feature: music/Gen25_26.JPG
 ---
 
 *Duskaz Wandilaz - Machine Art is on all common streaming services. Alternatively, here it is on Bandcamp:*
@@ -21,4 +21,52 @@ Generative music is that which is made partially by some stochastic (random) pro
 
 While the end result is a music album, truly the art (as with any generative art) is in the process which went into creating those sounds, as much as it is in the sounds themselves. I hope that the album stands alone - indeed, several people have enjoyed it without any further explanation - however in my opinion, the best way is with some insight into the processes. I hope that this page will go some way towards giving you that insight while you listen to Machine Art.
 
+Most of Machine Art was made using Supercollider.
+
 UNDER CONSTRUCTION
+
+##### Triple Nested Loop
+
+##### Rule 30
+
+##### Human
+
+##### Partially Symmetric Generated Krell Jazz
+
+##### Code Golf Two Slash One
+
+##### Triangle Subdivision
+
+##### On Paper
+
+##### Curve Only
+
+##### Tree
+
+##### Non-Computerised Random Cat
+
+##### Nonrepeating Subdivisions
+
+##### Server-Killing Disco
+
+##### Interlude
+
+##### Circles
+
+##### KlangfarbenKrabbe
+
+##### One Grows, Another Cuts
+
+##### Linear
+
+##### Function
+
+##### Wonky Line
+
+##### Five Hundred Lines
+
+##### Permutations on a 2D Grid
+
+##### The Gradient Sound
+
+##### Flock Resolution
