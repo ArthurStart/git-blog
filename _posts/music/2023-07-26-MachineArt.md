@@ -27,9 +27,25 @@ UNDER CONSTRUCTION
 
 ##### Triple Nested Loop
 
+I took the letters of the three words, *'triple'*, *'nested'*, and *'loop'*, and made a triple nested loop out of them to produce a series of 'words' of three letters each: *'tnl'*, *'tno'*, *'tno'*, *'tnp'*, *'tel'*, *'teo'*, and so on. Then, I came up with some rather arbitrary algorithms to convert each letter into a musical note, and played them as a melody.
+
+Around 100 lines of Supercollider. The sounds are a combination of sine and saw oscillators, with some filtering, filtered delay, and cubic nonlinearity.
+
 ##### Rule 30
 
+*"Rule 30 is an elementary cellular automaton introduced by Stephen Wolfram in 1983. Using Wolfram's classification scheme, Rule 30 is a Class III rule, displaying aperiodic, chaotic behaviour.*
+
+*This rule is of particular interest because it produces complex, seemingly random patterns from simple, well-defined rules. Because of this, Wolfram believes that Rule 30, and cellular automata in general, are the key to understanding how simple rules produce complex structures and behaviour in nature. For instance, a pattern resembling Rule 30 appears on the shell of the widespread cone snail species Conus textile."* [Wikipedia]
+
+91 lines of Supercollider. Sine waves and funky feedback.
+
 ##### Human
+
+An entirely human-composed two part harmony, played badly by algorithms. All composed rhythm is eliminated, as two synthetic 'players' step through the notes of the melody in a semi-random fashion, to the beat of a drum. Interestingly, the irregularity in the beat of the drum was not programmed in, but was a glitch due to my computer struggling to keep up. Sometimes that happens to me too. In the tradition of human music, we leave our mistakes in.
+
+~270 lines of Supercollider. MIDI melody made in Reaper. Convolution reverb, field recordings of a big pipe, sines, saws, white noise, that sort of thing.
+
+I applied the 'crawler' algorithm to the Star Wars theme, to bizarre effect.
 
 ##### Partially Symmetric Generated Krell Jazz
 
